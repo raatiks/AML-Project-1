@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Amount,Origin_Country,Destination_Country,Customer_ID,Customer_Risk_Rating
+1,2025-01-13,1012,Solomon Islands,Sweden,b3d1d9d0-288d-4b98-ba22-24033c7c6099,Low
+2,2025-01-03,1928,Australia,Kuwait,f21fa54c-88ec-4bab-b5ba-8568b86e0994,High
+3,2025-01-05,4567,Honduras,Liechtenstein,89fe81f8-1e80-491a-9d23-083ce7fa44b0,Low
+4,2025-01-30,344,Saudi Arabia,United Arab Emirates,1ad49a42-bacb-4e75-8ed2-6dc708626594,High
+5,2025-01-15,317,Tuvalu,United Arab Emirates,339a2f1e-3908-4a3d-9ca8-ae009b079b5e,High
+6,2025-03-09,4564,Senegal,Heard Island and McDonald Islands,c62d616b-8727-4ca1-bfde-aa0d5c0aac0c,High
+7,2025-03-13,2378,Romania,Maldives,973acf2f-1b34-48f0-b697-3962971a4105,Low
+8,2025-03-14,3562,New Caledonia,Palestinian Territory,912ca77e-c528-471c-baee-96f9145caf5f,Low
+9,2025-02-26,2857,Liberia,Palestinian Territory,17ac905e-8959-4971-b5e1-bc5ded821610,Low
+10,2025-02-24,3040,Switzerland,Tunisia,9cc00142-e272-4b09-98e9-27f52e5b0da1,Low
+11,2025-03-18,3863,Guernsey,Christmas Island,66c30ef3-13a0-4f1b-9986-b6cdba7628b8,Medium
+12,2025-02-11,745,Philippines,Anguilla,cca5cd2f-3c66-4f8b-9fee-cf5ccd876aef,High
+13,2025-01-23,3062,Monaco,Morocco,dbcc26b1-8516-42e4-9e01-7f5f66719d9d,Low
+14,2025-02-19,475,Nicaragua,Guyana,481bf45e-4332-46ad-b81c-334a610a4467,Medium
+15,2025-03-20,11407,Monaco,Bouvet Island (Bouvetoya),47e979bf-8f67-4d7b-a000-182c4c168896,Medium
+16,2025-03-01,2377,United Arab Emirates,Rwanda,55206e95-a5a2-4db1-b987-f61300ba9b92,Medium
+17,2025-01-14,1432,Finland,Barbados,bca2c4ac-9b61-4764-a540-9befb8056cdb,High
+18,2025-03-11,2287,Libyan Arab Jamahiriya,Jersey,1f2e2950-052c-408e-8b1f-1c3108ea713f,High
+19,2025-01-07,1501,Kiribati,Canada,6ec88b27-0cde-43d5-b5ef-c4170c8fa0ed,Low
+20,2025-02-28,3886,United Kingdom,Korea,8bbf3119-97f5-4b20-9e20-8de580326713,High
+21,2025-02-10,4662,Samoa,Dominican Republic,2a8099f2-7abb-4ad2-894a-a3219406001a,Low
+22,2025-03-01,9762,Guatemala,Estonia,cc74f5f6-1794-41c3-a5b0-7d82e4900709,Medium
+23,2025-03-10,2293,Cambodia,Korea,9a3d2c01-1a74-434d-a07f-b4afb336091e,High
+24,2025-01-28,2677,Malaysia,Central African Republic,3dee4e59-0df0-4304-935e-15fede84f16d,Medium
+25,2025-01-22,3858,Solomon Islands,Argentina,8f4cb443-4f1e-4b8a-aeec-5691d9197855,Low
+26,2025-02-12,4698,Sudan,San Marino,63dfc87a-00d9-4241-a839-5fee8bf52e57,High
+27,2025-01-13,3609,Saint Vincent and the Grenadines,Moldova,f2d9ebf9-e297-479b-9932-95bf25f8bf2f,Low
+28,2025-03-21,1233,Jordan,Sierra Leone,3a4f29fa-f33a-41c3-937b-e8138093be4a,Low
+29,2025-03-11,998,Uzbekistan,Zambia,282435cf-244a-4b73-a449-a493ca459bc4,High
+30,2025-01-26,3558,Georgia,Sao Tome and Principe,f1ab9c6a-d394-4db0-a8ac-bd2dfe50f97a,Medium
+31,2025-02-20,4981,Belgium,China,f911501f-d6e2-4450-92f1-5151c08d050e,High
+32,2025-01-05,194,Mozambique,Cambodia,68e5fd71-9b46-4992-979c-41925a0fd20d,High
+33,2025-02-03,2285,Kiribati,Gabon,e6439821-8489-4ef8-aa61-ad66f1d82ff6,Medium
+34,2025-01-26,3661,Guatemala,Lesotho,05964e4b-24dc-4cde-af4e-d0ee0b74f54f,High
+35,2025-01-27,2257,Albania,Colombia,6e923bfb-b0a1-4cca-9d11-1bcc53939575,High
+36,2025-01-16,971,Switzerland,Bermuda,19eb37a0-bf5d-468d-9ff4-6a8fff960828,High
+37,2025-02-21,4258,Gabon,Pitcairn Islands,fa35c798-c0e1-44a8-870d-ab4a55bc19a9,Medium
+38,2025-03-18,13918,Nepal,Lithuania,a3e9f91b-89cc-4d82-b375-e2b16ae4c034,High
+39,2025-01-09,104,Australia,Bahrain,6568d5e4-0b75-4a43-8399-d2544553f42b,Low
+40,2025-02-15,12473,Faroe Islands,Zambia,e4c14403-a218-4eac-8ee5-1556f3862c8a,Medium
+41,2025-02-26,2061,Pakistan,Cayman Islands,a2113345-dda7-429b-aee0-beaecf308897,High
+42,2025-03-11,745,Mozambique,United States Virgin Islands,b45310de-b591-4986-b855-48df27c45fec,Low
+43,2025-01-07,4463,Seychelles,Trinidad and Tobago,3febf10f-56b6-48f1-90bf-662a6b53f054,Medium
+44,2025-03-12,4603,Bermuda,Uruguay,a65c1e38-ea5a-40a7-8a53-19d6214c3d55,High
+45,2025-02-06,11235,Lesotho,Colombia,abcdb3c9-316c-4cee-bdd4-923286db1334,High
+46,2025-02-25,1747,Nigeria,Turkmenistan,457026ae-ce56-4f1d-b03f-aed113161bba,High
+47,2025-02-27,13088,Cape Verde,Chad,6f52e25c-9b2f-4e37-98a5-e11875318612,Medium
+48,2025-03-14,1091,Zambia,Qatar,5a4c48f3-d256-42d5-9ac3-52bc66abb152,Medium
+49,2025-03-20,272,Ukraine,Cameroon,7920ae1d-ec55-4821-bd46-669682c6c355,High
+50,2025-03-02,1904,Seychelles,Guernsey,1d1a5163-10a1-48ec-844e-02ed04e0741b,High
+51,2025-02-03,582,Slovakia (Slovak Republic),Falkland Islands (Malvinas),62982ae7-46e0-45ed-8cec-049430a5380f,Low
+52,2025-01-03,2806,Japan,Greenland,28e73ce6-e02d-4806-a044-6b05c30290ab,Medium
+53,2025-02-21,4076,Burundi,Guinea,4be1013d-f9c9-497e-8cab-dd973fc8cb22,High
+54,2025-02-11,4777,Guatemala,Cape Verde,77c3afd3-acb2-467d-84a8-4e1e6ae6de1a,Medium
+55,2025-02-26,3434,Martinique,Haiti,afb2ae5e-9ea7-4d21-a4e3-b3b538c902ba,High
+56,2025-03-18,3631,Ukraine,Somalia,6a7aca6f-8b1e-49d3-829b-4844a0f1d983,Medium
+57,2025-02-21,14853,Georgia,Uzbekistan,bc4593f4-4246-464b-a7aa-cee491c39928,Low
+58,2025-02-15,596,Greece,United States of America,a28ddfa8-42be-41ca-b2ac-11f1be3e3b51,Low
+59,2025-01-24,2136,Uganda,Tonga,b6011301-41b3-4bb1-9731-2f95697ac03f,Medium
+60,2025-01-08,1248,United States of America,Thailand,476855d7-6b63-4d63-a3d4-a34998a871c0,Medium
+61,2025-01-18,2146,Bermuda,Chile,934cb341-2bcf-416b-ad13-d39206fb2ca8,High
+62,2025-02-18,902,Botswana,Mozambique,1935c64d-6d36-4109-9d1a-f301c9e292ec,High
+63,2025-01-02,10264,Falkland Islands (Malvinas),Senegal,ccfe18fe-2c9b-4978-ae5d-acd4528d09ef,Low
+64,2025-01-24,1462,Palestinian Territory,Christmas Island,424bade7-190c-4285-a6cb-be77bd2b88dd,Low
+65,2025-01-31,3385,Falkland Islands (Malvinas),Korea,4d2c953b-7d44-48c9-ad61-579a8b63f5d3,Low
+66,2025-01-07,11672,Honduras,Poland,1f61d218-1396-4cac-9a04-1bbe5a3d4736,Medium
+67,2025-01-15,2436,Palau,Kazakhstan,a20ab608-7f6c-4b20-a779-2929bfcce9cd,High
+68,2025-01-04,4652,Paraguay,Cyprus,64d316eb-e2a0-4dab-96be-8e3be0f3f1fe,Low
+69,2025-03-14,1655,Maldives,Russian Federation,47f1fb49-dc16-40b0-a4f6-2e4de41642b6,Low
+70,2025-03-08,4844,San Marino,United Kingdom,dee6f649-251c-42f7-bcef-0bb1ac7f0173,Medium
+71,2025-01-24,568,Comoros,Nepal,ce851941-a0e9-4522-8f0d-4015f8298b37,High
+72,2025-01-16,4450,Central African Republic,Namibia,e8eb5a60-a556-444d-8055-d47050a121f1,High
+73,2025-03-14,756,Senegal,Guyana,f087f3e9-be76-4a96-8244-2aca8b177958,Low
+74,2025-03-15,2026,British Indian Ocean Territory (Chagos Archipelago),Jamaica,d51472ef-4527-45ce-9178-129d9db37519,High
+75,2025-02-20,2116,French Southern Territories,Uganda,8e62c545-afdf-488c-b86c-a26f6a7dbdc4,High
+76,2025-03-05,771,Zimbabwe,Estonia,c816be01-c152-4e4f-9aed-63f6d32ca958,High
+77,2025-01-05,12091,Panama,British Virgin Islands,7dca2a37-d75f-4891-9ef9-579648005a72,Low
+78,2025-03-18,2673,Solomon Islands,Lebanon,7eb6e8ab-6fb3-45fa-a389-7a862495789a,Low
+79,2025-03-19,2557,Iceland,Macao,c368a22e-6885-4a87-9c68-d1089cc25c1d,Low
+80,2025-01-31,176,Kuwait,Vanuatu,1e5e1512-b266-4e11-8912-f680b946ddc4,High
+81,2025-01-22,919,Cameroon,Jordan,88879e5f-85c3-446e-96ff-d4387eeceb0c,High
+82,2025-01-20,10585,Colombia,Latvia,b6ab6896-008e-4db2-9140-118c41065ebf,Low
+83,2025-03-13,2101,Latvia,Mexico,9f86e7cf-02bc-47b1-ac43-d39bd2b8674e,Medium
+84,2025-01-23,4550,Bhutan,Egypt,e683650a-88b0-424d-8255-9d777420947d,High
+85,2025-03-17,4433,Nicaragua,Belarus,ab3b77fe-a299-45ab-a579-adeec4694998,High
+86,2025-01-27,2552,Slovenia,Guinea,e1af8970-3b88-4c94-92f4-ae9230d49965,Low
+87,2025-03-14,10445,Austria,Netherlands Antilles,52d5b735-a082-4d3d-992e-fb9624c3ddb4,High
+88,2025-01-05,4632,Grenada,Armenia,18163cc5-727f-4468-bcea-3d9b752f12ad,High
+89,2025-03-12,1825,Sao Tome and Principe,Heard Island and McDonald Islands,ed43ff99-f713-4323-a890-0432e160b4e1,High
+90,2025-03-02,2262,Malaysia,Eritrea,1ed93bb5-ee28-4531-8526-9c1d4f1da382,Low
+91,2025-01-07,856,Iraq,San Marino,440002b9-7711-45e3-ae22-db68da1d9f8d,Medium
+92,2025-02-11,461,Mexico,Eritrea,3293a972-ab09-4ccc-92d6-03f54062285a,Low
+93,2025-01-01,2245,Thailand,Mongolia,883c4f99-5b71-423f-b811-c66dec0f6825,High
+94,2025-02-11,3603,Vanuatu,Brazil,8f8f27b7-6c98-4578-8eb4-b7a891a80b98,Low
+95,2025-02-02,1321,Aruba,Namibia,659d5720-300b-4f0f-abf3-447b577eb7be,Medium
+96,2025-02-04,4871,Tonga,Zambia,8dd3b5d2-f43c-4fd1-a6e5-ff33abb79de2,Low
+97,2025-02-26,442,Canada,Thailand,61c73b06-65fb-4d08-9ef6-df5d80e85f0f,Low
+98,2025-01-27,3031,Madagascar,Bulgaria,4e339459-c058-43cd-9c4e-914baf49b9d9,High
+99,2025-01-17,942,Mauritania,Bangladesh,c36cb40c-6141-49f2-8a55-fb2ebafc03a6,Medium
+100,2025-02-05,11439,Heard Island and McDonald Islands,Guyana,fd15a6c5-cc24-405c-a83d-96a292284966,Low
+101,2025-01-01,3477,Vanuatu,San Marino,80613347-9503-469f-84ac-49ee77fcd5b5,Medium
+102,2025-01-02,14987,Christmas Island,Russian Federation,b0db7001-1304-4687-b62a-19068870dfed,Low
+103,2025-01-05,2285,Moldova,Portugal,7b627622-29d4-44c0-8a96-6d36238d88d8,Low
+104,2025-02-05,9817,Jamaica,Ukraine,43c200f9-18d6-412f-86e8-b0f84729163e,Low
+105,2025-02-10,1734,Saint Lucia,Gibraltar,af419e5d-74be-46a4-8ae2-3dc9a5b78aeb,Low
+106,2025-03-02,1926,Gibraltar,Paraguay,411e5519-e751-45d9-86ba-460102fc1f63,Medium
+107,2025-02-27,11782,Bosnia and Herzegovina,Micronesia,d3823f93-775c-43da-9730-5bfa2ab7a180,Medium
+108,2025-02-21,2976,Djibouti,Western Sahara,dfb2b7b6-19bc-4621-a297-a66257806598,High
+109,2025-02-26,12212,Central African Republic,Cocos (Keeling) Islands,122a1f3c-ad23-49cb-9d19-543354319756,Low
+110,2025-03-11,2239,Jamaica,Nicaragua,91b08701-ac7e-4e85-8555-7f4999667a6c,Medium
+111,2025-01-19,413,Palau,Denmark,c53be3df-c05d-4794-acd7-43f3c789e50d,Medium
+112,2025-02-20,2669,Dominica,Kuwait,e62df641-6525-4c14-9744-037bb4c17005,High
+113,2025-03-01,12655,Central African Republic,Saint Pierre and Miquelon,dbc48a55-5fbc-4b6b-b34e-93e323657e42,Low
+114,2025-01-11,2186,Fiji,Mauritania,96974599-3456-4d84-9d59-2267956e6dc4,Low
+115,2025-02-11,4359,Gibraltar,Guyana,82e66018-21b2-424f-b285-8c9f7e9dd690,High
+116,2025-02-16,1714,Italy,South Africa,47a92380-e05f-4c20-843c-6088fa8e4bf0,High
+117,2025-03-09,2804,Peru,Tuvalu,2800e968-9c01-4703-ad88-3383f2f30d4f,Low
+118,2025-02-04,2560,Somalia,Morocco,f5f82d9e-5cec-4425-981e-258ac9941b92,Medium
+119,2025-03-06,2772,Vanuatu,Norfolk Island,4af60ef6-259d-4447-8c03-2968956a08ce,High
+120,2025-03-09,1142,Falkland Islands (Malvinas),Senegal,604a0b22-89fb-4526-994e-0600c14241fc,Medium
+121,2025-01-18,1525,Timor-Leste,Thailand,d8ffba47-80a5-4184-bb88-d1dd1db8af2c,Medium
+122,2025-01-27,4588,Paraguay,Montserrat,cd2dae01-a66e-4d99-9df0-23348d656add,Low
+123,2025-01-05,3621,Cook Islands,Sri Lanka,9a9cf2a2-3e14-43bb-8d7a-4e44b612d6ca,Medium
+124,2025-01-09,3909,Vietnam,Senegal,16837bc2-c635-4067-806a-cf37365cf224,Low
+125,2025-02-15,4287,Saint Helena,Ghana,439dc0ba-46e6-45e7-9f1d-f5d05f6363c0,High
+126,2025-02-17,1490,Ireland,Mauritius,8ac90250-1eec-4029-8ce1-817a8245693b,High
+127,2025-01-14,10265,Congo,Barbados,f3ee8d68-b628-43fe-b75f-39993803d4d1,Low
+128,2025-01-17,11340,Niue,Marshall Islands,74e326f8-943f-457a-9375-4c2651fb98f5,Low
+129,2025-01-01,300,Burkina Faso,Taiwan,0514f4a5-7ff7-4534-a864-323a83269001,Medium
+130,2025-01-11,696,Estonia,Cambodia,451fdc0f-9ad9-4ede-8084-14c190ed34e7,High
+131,2025-02-18,4815,Barbados,Lao People's Democratic Republic,b21ac6b7-09d7-4721-9755-dfa4ff11f50b,Medium
+132,2025-01-30,4149,Grenada,Cape Verde,54b21822-fd43-4a73-bcc2-08003af1fa16,High
+133,2025-01-08,145,Swaziland,Egypt,52957c8f-19f8-4150-8533-d6c1b12a9300,Low
+134,2025-02-26,1540,Saint Kitts and Nevis,Guinea-Bissau,2d3ed976-ad90-469b-b594-211fa504e424,High
+135,2025-01-11,2141,Ireland,Iraq,a34e492e-b906-4b60-a59b-55e392f516bf,Medium
+136,2025-03-15,4451,United States Virgin Islands,Netherlands,dc2ad384-e571-44c3-967c-a7d77a9bd487,Medium
+137,2025-02-15,12995,New Caledonia,Yemen,bdac7f58-78d3-4e3a-8614-ac6d74074b6e,High
+138,2025-01-11,3752,Zimbabwe,Barbados,23c94ebf-abaf-4bbe-8998-12d6869a96a2,Medium
+139,2025-02-21,3786,Liechtenstein,Mauritania,46a26b3d-317d-4499-9716-30417047b436,High
+140,2025-03-07,2371,Niger,Algeria,585bbc56-341c-4592-aa0d-9de7bad7e2d0,Low
+141,2025-02-18,2349,Saint Martin,Lao People's Democratic Republic,e20f5241-8d60-4370-973b-4840a4e85f59,Medium
+142,2025-03-12,2020,Sweden,Moldova,a385f6f7-3cdc-4890-99dc-e2b11e67bfbd,High
+143,2025-01-03,760,Niue,Namibia,0d98fd5f-a993-44cb-8b2d-511c4cfb6232,Medium
+144,2025-01-18,1351,Barbados,United Arab Emirates,9447f70b-2784-4219-bb59-14405c20dee1,Medium
+145,2025-02-26,2810,Mauritius,Kuwait,f7462a33-b1f8-4449-ae75-f8414e43ed54,Low
+146,2025-01-11,1794,Kuwait,Bhutan,5b5c2f87-86b8-4bb7-8ce1-a015b773fc31,High
+147,2025-01-11,260,Tajikistan,Nigeria,8619f085-45b4-4154-adb7-4e77879d108b,Low
+148,2025-02-21,2981,Saint Pierre and Miquelon,India,85953be3-2439-453c-bd53-20ff3432d1d0,Medium
+149,2025-02-08,4509,Sweden,Uzbekistan,e6b7ce8d-76de-4e17-8a01-cf935686cc07,Low
+150,2025-02-06,4099,Turkmenistan,Kenya,99f3a9d5-8792-4e4b-98eb-00e4dca4e949,Medium
+151,2025-02-06,337,Nicaragua,Niger,f467af0c-b8b0-45f5-bb0f-cdc511581c9b,High
+152,2025-03-13,10852,Turkmenistan,Marshall Islands,a0be30da-6806-488c-ab71-708c1a4dba1a,Low
+153,2025-01-12,9720,Netherlands,Congo,1daa457c-9236-4657-9262-0d69fe2c94d3,High
+154,2025-03-10,4723,Ireland,Gabon,44b55a2d-51b0-4cdd-9012-eb1b018ca439,High
+155,2025-01-22,10611,Dominica,Japan,b74ca643-6699-4810-bc82-9b5cc4341ec3,Low
+156,2025-02-25,511,Brunei Darussalam,Bahrain,594259ea-9bab-4205-a9aa-f8518d862e75,Low
+157,2025-02-02,3824,Australia,Norway,350d25e8-3e6c-4416-90f3-a234188f5f28,Medium
+158,2025-02-10,2379,Western Sahara,Mexico,8e2a56c5-3c2c-44b5-9f42-e5fe26bd7905,Low
+159,2025-02-19,3952,Ecuador,United States of America,742ca8a4-2e7c-4e6f-a442-c3aa3e39ff00,Low
+160,2025-03-06,2966,Egypt,Pitcairn Islands,81e0dec2-a391-4be5-b5b0-14ca812183c1,High
+161,2025-02-25,9754,Libyan Arab Jamahiriya,Niue,0269adab-ee42-4e83-8a17-4693561ccbf0,Low
+162,2025-03-07,266,Solomon Islands,Palestinian Territory,785909df-9469-48e5-9f30-6c6b345558e7,Low
+163,2025-03-21,3979,Liberia,Malawi,a1745014-65d8-4915-a6df-177742196490,Low
+164,2025-01-27,3909,Seychelles,Maldives,d3fb70e6-c1b5-4a04-a591-8fb90a117a88,Low
+165,2025-01-21,10841,Norway,Dominica,85fcd07b-9bee-4291-babf-00d26fdd90db,Low
+166,2025-02-04,9710,Jordan,Lesotho,a30c5d74-4237-461a-b926-64e5bbb6ba18,High
+167,2025-01-16,12749,China,United States of America,9967c218-0bde-4cd2-8b3e-2b60846ecb72,Low
+168,2025-02-09,722,Faroe Islands,Brazil,2a801533-fb12-4b68-92fe-d297d5c25468,High
+169,2025-03-06,2089,Belgium,Antarctica (the territory South of 60 deg S),c67bc5b5-7e9b-432f-8338-7cb2c1e71924,Medium
+170,2025-02-09,1091,Taiwan,North Macedonia,a1af2a09-7902-49f4-91ae-c67c90e21dce,Medium
+171,2025-03-08,4464,Lithuania,Bolivia,9b67367d-f487-458f-b99c-8c87c148a7f1,Low
+172,2025-02-17,4244,Hungary,Barbados,018ef518-455e-42b1-ba5e-ac4bc0bbba7e,Medium
+173,2025-01-27,4115,Namibia,Jamaica,d6c2de42-efc0-4722-b1e2-7f47495d817f,Medium
+174,2025-03-18,3866,American Samoa,Paraguay,0f8f19f7-249f-4f59-b81f-9b3602fcfddb,High
+175,2025-02-11,4374,Cyprus,Guatemala,cba3ed97-0541-49f9-ad7c-9c47767e6616,High
+176,2025-03-21,4060,Samoa,Guadeloupe,4727be7f-aec5-40e8-a942-2b1658c6f9bb,High
+177,2025-01-12,4953,Guatemala,Cook Islands,d98be12e-bfb1-49bc-a2ef-b6f6c85fe889,Low
+178,2025-01-25,11784,French Guiana,Kazakhstan,ae19ed33-2c28-41cf-8e7d-8000560c5f1c,Low
+179,2025-02-20,3906,Bulgaria,Papua New Guinea,0b341fc4-e27e-42ea-8c5c-b416062655bd,Medium
+180,2025-02-21,2855,Indonesia,Cote d'Ivoire,1453d104-3368-49c7-8309-178890fa7040,Medium
+181,2025-01-11,1589,Gabon,San Marino,9fe9c363-dd1a-47ad-81b2-e1a3bf51f2f7,Medium
+182,2025-01-23,11790,Falkland Islands (Malvinas),Tanzania,1c6a4eb4-d011-4554-94cd-16211a638a3e,High
+183,2025-01-20,2363,Argentina,Lesotho,5e26f9e2-90ea-4453-b9da-0a32eb352bfd,Low
+184,2025-01-20,801,Martinique,Liberia,edfa1697-7766-4c1b-9ad1-5bd35ec24b14,Medium
+185,2025-02-16,4648,Comoros,United States Virgin Islands,6bec8f19-e453-4423-ad6c-102ebf2c04a5,High
+186,2025-02-25,4120,Senegal,Guernsey,2aa37bb1-ed2d-4ce8-9bf9-6919002836bf,Low
+187,2025-01-02,2510,Timor-Leste,Nigeria,798c44e3-9ca5-4807-a569-3cd1cd2d0407,Low
+188,2025-01-30,2608,Jamaica,Heard Island and McDonald Islands,1736eeee-424e-495f-875f-0b0496791c0c,Medium
+189,2025-01-29,4634,Christmas Island,Mexico,95eced9f-e675-424d-be83-5216cb5ca814,High
+190,2025-02-24,4608,Bosnia and Herzegovina,Barbados,c30c0ff5-66ab-4bb9-a1e2-7e37113be5e9,Medium
+191,2025-02-15,2319,Burundi,Mexico,595943cf-cb39-4ca9-b6f0-51a14a49ff48,Low
+192,2025-01-17,1677,Congo,Micronesia,0730f09b-dd01-4694-9970-28c6e2f9fd1b,High
+193,2025-01-17,1616,Luxembourg,Turkmenistan,5bc906fe-47f1-4811-92bb-b7c72f3a17b3,Medium
+194,2025-01-17,14329,Indonesia,Seychelles,5ab49328-6740-46d3-8a59-3a2c3b9ad6c6,High
+195,2025-01-24,11818,Maldives,Philippines,ee544d8e-60e6-4b6c-bce2-b7c059d0f316,Low
+196,2025-03-11,2526,Philippines,Norfolk Island,cc57f48e-5c1a-4d27-b6b3-e1b95fcc5b17,Medium
+197,2025-01-13,215,Jersey,United States Minor Outlying Islands,98e75eb2-e7f8-44e1-b217-0b60e594525c,Low
+198,2025-02-18,546,Reunion,Lebanon,380dfe4b-67cb-41ec-8afc-8dfe1db4c6fb,Low
+199,2025-03-11,10340,Azerbaijan,Montserrat,5cf342b1-8d46-4479-be48-8ecb9209d206,High
+200,2025-03-06,2429,Denmark,French Guiana,7235d45c-97de-46c9-b0e6-043374829221,Medium
+201,2025-02-06,1610,Vietnam,France,09e3a2d8-6a25-4ab8-8872-98f2e15af9e4,Medium
+202,2025-02-10,1034,Malaysia,American Samoa,d663a92b-5a46-40b0-a5a1-193e45c4d6fc,Low
+203,2025-03-17,4826,Antigua and Barbuda,Armenia,affbb00e-7ea9-4d3f-92e7-eab9ec097129,Low
+204,2025-01-15,14110,Gibraltar,Malta,58bb4986-77ce-4e18-9a47-f8a448e4646e,Low
+205,2025-03-05,2133,Korea,Liechtenstein,9c2b39fa-e260-4483-b7f4-549384166f7b,Medium
+206,2025-01-26,4983,South Africa,Italy,0c4954f3-308a-4e25-bb90-c956a3034c35,High
+207,2025-03-17,13190,Tuvalu,Oman,3130e20d-c9b1-4a54-8465-c8435e6cfcd3,Medium
+208,2025-02-22,4921,Guam,Bosnia and Herzegovina,3ab9d950-5612-4eff-99b6-63fdc1c28d72,High
+209,2025-01-08,14494,Bulgaria,Togo,c95b28ec-5dc8-4c6c-bf61-202ed40343cf,Low
+210,2025-03-15,1802,Spain,Uganda,11335242-dfcd-4667-9883-70ea323674da,High
+211,2025-01-27,765,Dominica,Senegal,42fa56a1-36c9-4e02-8794-2f27cbf18cef,High
+212,2025-01-31,714,Sao Tome and Principe,Montserrat,eada44ed-5d30-4860-b66f-0df7fdd8f555,Medium
+213,2025-03-17,4964,France,Angola,e294ae9d-a8ed-4d23-97c3-c3ce25b34ffc,Low
+214,2025-01-17,2460,Chad,Chile,9bae8662-2c22-4065-81e9-59695c756616,Medium
+215,2025-03-15,11412,Uruguay,Norway,21414a73-76c2-438f-8e8d-2caaf680eb20,High
+216,2025-03-02,14916,Lithuania,Bulgaria,7144cfd8-cceb-447d-9b18-048f6e40325f,Low
+217,2025-01-25,3582,Italy,Rwanda,a3523c73-185a-4f74-93dc-737a7105b950,High
+218,2025-01-06,11676,Kenya,Bosnia and Herzegovina,2c2be961-2dd5-4621-b5de-58c9d50686c3,Low
+219,2025-03-13,588,Algeria,Brazil,9ec1e573-b296-4921-a568-a055fd661819,High
+220,2025-01-05,4762,Germany,France,2ddb060a-2c72-4607-b9ca-abef37e79d73,Medium
+221,2025-01-01,12797,Burkina Faso,Mexico,fb85536f-fd6c-4f4b-bf26-58c07e8090ef,High
+222,2025-02-12,4523,Argentina,Northern Mariana Islands,736b6b9d-1b8b-4789-ad7d-8f77fb189fd9,High
+223,2025-01-16,426,Chad,Samoa,6ad1e34b-f2e3-4e5c-b04e-4e480129653d,High
+224,2025-02-21,2151,Cyprus,Moldova,48ed7a63-ed98-4d4b-85eb-c61174174edc,High
+225,2025-01-15,14309,Marshall Islands,Bulgaria,c408ae82-4e71-4079-ac9c-1ca4df620132,High
+226,2025-03-10,2307,Montserrat,Cape Verde,68636019-e84b-475f-8ebb-ce9c2cb251f0,Low
+227,2025-02-16,3954,Heard Island and McDonald Islands,Taiwan,9573d63e-85b9-443f-bcf1-c1f3b8c7cc5c,Medium
+228,2025-01-25,1586,Korea,United States Virgin Islands,944b5dc0-5359-4ace-a585-0b2d175f7585,Medium
+229,2025-02-25,847,Northern Mariana Islands,San Marino,bf452e59-2a01-44b5-b97f-b398363ece06,Medium
+230,2025-03-14,2730,Fiji,Brazil,d8fcea34-3ae9-4c7e-8dfc-3d06018bdf68,Low
+231,2025-01-04,2801,Burundi,Estonia,7f1d9e78-be03-4bb8-89c7-bc6aab8ec334,Medium
+232,2025-02-21,3380,China,Zimbabwe,af572b43-60a7-4da5-9f3c-92a7efd1b07d,Low
+233,2025-02-06,2676,Peru,French Guiana,e38db687-b8b3-44f4-85bc-0734c8f8c102,Medium
+234,2025-01-08,4315,Belgium,Holy See (Vatican City State),97c461bb-0615-4a72-93ff-123999e4cf5c,High
+235,2025-01-11,3884,Ethiopia,Lesotho,ee181622-a7b3-4d78-b78c-160a37a12b58,High
+236,2025-01-12,3063,Bouvet Island (Bouvetoya),Saint Helena,bad82943-4602-45ce-afb3-d670af4e4b66,High
+237,2025-01-21,3721,Romania,Taiwan,2450c38e-5e55-4cd7-acd2-d4359e13604e,High
+238,2025-02-02,1173,Montenegro,Holy See (Vatican City State),2cacf844-9e53-4964-b7f8-4733ce2b7227,High
+239,2025-02-04,4070,Djibouti,Christmas Island,d78f202a-ce77-4bf2-bc7d-5089ae4e6be0,High
+240,2025-03-21,2060,Cameroon,India,a661a93f-cf4f-4323-97dd-cf7934b670d8,Low
+241,2025-03-13,4624,Greenland,Italy,0969cd0d-ec89-48ac-ab76-e1996977c034,Low
+242,2025-02-12,3880,Bhutan,Zambia,c72cd44e-ca3f-44dc-8267-1c08548b27c7,Low
+243,2025-02-05,4182,Kyrgyz Republic,Saudi Arabia,4bfa8897-0cd3-4b07-b8c5-ebca575c0149,Medium
+244,2025-01-10,13452,Jordan,Lesotho,c608ae9b-a61a-43f2-a396-fc61c886c861,Low
+245,2025-02-12,3841,Egypt,Barbados,2d0a947d-ec36-4d45-bbe2-b50e83cbdfa8,Low
+246,2025-01-28,10618,United Arab Emirates,Suriname,3f53bef2-02c9-4b91-9c2d-4612f256a818,Medium
+247,2025-01-04,12284,Svalbard & Jan Mayen Islands,Afghanistan,b6522cc4-3f3b-43c8-b079-2123679ec7f9,High
+248,2025-03-08,2288,Aruba,Turkey,4a63aa33-9733-44ee-85b1-62a97d1425d9,Medium
+249,2025-03-06,14250,Guam,Nepal,aacb074f-46d6-4dcb-a84a-597a84ac8af8,Medium
+250,2025-01-22,1317,Somalia,Antarctica (the territory South of 60 deg S),d9aa90a1-9e49-47e5-9701-f002a80f58ab,Medium
+251,2025-02-17,2823,Equatorial Guinea,Belize,3c79ab45-f36a-4d10-a66c-7b5ed983afe8,Medium
+252,2025-01-27,12136,Tokelau,Turks and Caicos Islands,bb2accf3-1fe6-4a57-b29a-22fb81dad66b,High
+253,2025-01-07,2056,Jamaica,Croatia,42822fe0-fe6b-4c73-b45c-f9f1902c7199,Medium
+254,2025-03-10,457,Guatemala,Kazakhstan,bfb75d88-74e8-4b27-a5cd-7e2905e0fc2d,High
+255,2025-03-01,12662,Estonia,Austria,fe318bb6-2d15-44cc-a829-1da1701bd5e9,High
+256,2025-01-22,13557,Central African Republic,Brunei Darussalam,086e9930-b09b-4daa-83d9-57be579e77fe,Low
+257,2025-02-27,4214,Poland,Falkland Islands (Malvinas),c6886859-d1bb-428c-8d01-223fde390988,Low
+258,2025-01-04,3706,Rwanda,Saint Barthelemy,8dac391a-42fc-47e1-85d6-bd677984273f,Medium
+259,2025-01-16,225,Malawi,Solomon Islands,ec3fab9f-4a7a-44c5-9bf3-d5b1f5da5bb1,High
+260,2025-02-28,1364,Montserrat,Chile,17ae4a88-b16a-41a2-a7c7-5af239474140,Medium
+261,2025-03-19,2873,Malaysia,Malaysia,f5d2fda4-a0d8-4a8f-9b00-02a148a5330e,High
+262,2025-01-28,12191,New Caledonia,Heard Island and McDonald Islands,896a5461-2564-44bc-8fc1-b08519a67632,High
+263,2025-02-27,3213,Niue,Poland,7c523b35-3855-4190-a10b-d5982b983a4c,Medium
+264,2025-01-24,4532,Saint Barthelemy,Korea,863c2b3a-c99c-4d77-aef0-c96cedd99165,Low
+265,2025-01-27,2454,Turks and Caicos Islands,El Salvador,1529d281-227e-4372-859b-57cec4ce5bf9,Medium
+266,2025-03-16,906,Cook Islands,Denmark,04ce7a67-f3e0-4ea9-ad5e-8ac167cf05ff,Low
+267,2025-01-19,3734,Somalia,Liberia,e0d9aaad-4769-4935-af45-7ea08e02dae0,Low
+268,2025-03-08,476,Lebanon,El Salvador,c3668bbb-23a8-46e9-be35-0b049b430c01,Medium
+269,2025-01-19,3036,Mayotte,Congo,c40b2677-989b-4d0b-9b2f-1b0b128da011,Low
+270,2025-03-08,4451,Equatorial Guinea,Kuwait,055eb89d-dfdc-4c12-9215-5ca90f81027b,Low
+271,2025-03-20,1492,Jersey,Swaziland,94805e91-c880-45d3-a491-682e3548f3a6,Medium
+272,2025-03-02,13576,Papua New Guinea,Gambia,dd7482e4-3e48-47fc-80fe-674a0adbd71d,Low
+273,2025-02-20,2002,Holy See (Vatican City State),Slovakia (Slovak Republic),53481890-5a57-4e89-865e-859b9655eb33,Medium
+274,2025-01-30,2191,Vanuatu,Suriname,0073f645-9853-443d-8ba4-df75834a5259,Medium
+275,2025-02-22,2456,Estonia,Greece,f63d6a07-770d-49e1-9b73-ca6eae4d0724,Medium
+276,2025-01-26,2930,Micronesia,New Caledonia,277aee0f-b064-43f4-8f2d-9ed3f5042b31,Medium
+277,2025-01-17,13242,Ghana,Slovakia (Slovak Republic),e6253aec-0b4d-4bcc-b5e7-ef472715be93,Low
+278,2025-01-18,3251,Niue,Mali,ffef1c47-1420-4d2f-91b8-c8bd3c72d40a,Medium
+279,2025-03-10,4785,Barbados,Saint Kitts and Nevis,4f30eddb-1b95-45b6-9eff-362a4f1607e6,High
+280,2025-01-21,9679,Northern Mariana Islands,Maldives,8f1f620e-db1a-4fd9-81fb-8a290c131219,High
+281,2025-02-20,3342,Guyana,Belarus,7dc0fea5-f494-4918-8dfc-3be521374acc,High
+282,2025-01-28,501,Grenada,Egypt,b4e3432d-0f87-4675-a343-7db57a3ca651,Medium
+283,2025-02-11,14473,Uzbekistan,Indonesia,5be14206-bcba-4ded-9b06-54c2853af4f5,Low
+284,2025-01-27,1657,Madagascar,New Caledonia,262b19ee-c5d4-4d3e-b2c2-4069269dfec2,High
+285,2025-03-11,1220,Algeria,Saudi Arabia,7e1933eb-cc0e-49ce-9664-1a06b2e98644,High
+286,2025-01-13,422,Peru,Mozambique,2e930f08-d360-4a3d-8e4f-4cc289868141,Low
+287,2025-03-07,4847,Mali,Libyan Arab Jamahiriya,78f15e6d-337f-46c8-8c81-30b1a2c5b550,Low
+288,2025-02-12,2517,American Samoa,Vanuatu,8ca39bbd-95da-4e41-8eaf-fd7026f7714d,Low
+289,2025-01-31,1744,Bermuda,Anguilla,8597bbf3-a9ec-4666-a704-ae7f138461b9,Medium
+290,2025-02-07,13610,Myanmar,Romania,fdbc99e2-5602-4f79-9904-f7f1a12d73c6,Low
+291,2025-01-16,13447,Holy See (Vatican City State),Venezuela,2b0d7ee6-52c7-4fc2-9626-ed536be2f217,Medium
+292,2025-03-01,2874,Chile,Germany,90dca753-1e95-4f23-82ac-25bf2a0e3e99,Low
+293,2025-02-22,11348,Costa Rica,Malaysia,a5040247-beda-4638-9798-af6393850b0c,High
+294,2025-01-16,3355,Niger,Vanuatu,ab198748-4e0f-4de3-8816-245c0eee7c36,Medium
+295,2025-03-02,214,French Southern Territories,Azerbaijan,9db3a94b-3fbc-44aa-8947-007fa5c63c19,Medium
+296,2025-01-06,3119,Mexico,British Indian Ocean Territory (Chagos Archipelago),aac1b53a-e1fd-40f7-a86d-fe9c2ee7b781,High
+297,2025-01-04,3143,New Caledonia,Libyan Arab Jamahiriya,6869d6d1-54db-411f-bed0-c8b34fa65f9e,Medium
+298,2025-01-06,14575,Palestinian Territory,Philippines,d1f75af0-4af1-4818-a799-d747dcba00d2,High
+299,2025-02-17,2787,Saint Lucia,Heard Island and McDonald Islands,4a02440d-9e81-470e-8aff-b3b3a32139cd,Low
+300,2025-03-09,3903,Belize,Ethiopia,a76c8260-2cbc-4ee4-aaa3-c72b4cb85e69,Low
+301,2025-03-11,9871,Mexico,Russian Federation,3b3796fd-8b14-49d6-9f48-7a01558ac4de,Medium
+302,2025-01-29,4135,Central African Republic,Paraguay,4f4dae3a-7422-4d6f-a06c-31913e415e0b,High
+303,2025-02-18,1211,Pakistan,Kazakhstan,7229f0a1-6772-47c1-a879-79f9494839cb,High
+304,2025-02-07,4525,Iceland,Yemen,e0b203b9-1772-4b65-bf2f-cf1c81adbb2f,High
+305,2025-02-21,1365,Italy,Spain,6c110fbb-505d-4525-b9de-09073155eb96,Medium
+306,2025-01-24,3443,Lao People's Democratic Republic,Venezuela,458064ee-eb3a-4d86-abb2-d20fdbb77864,Medium
+307,2025-01-05,1879,Cuba,Burkina Faso,276abfe3-ec55-4755-881e-6ad81da2b69f,Low
+308,2025-02-03,10313,Sudan,Northern Mariana Islands,5b8fb1a9-41b6-44bc-92d1-d0b4d3763096,Medium
+309,2025-03-11,4560,Seychelles,Antigua and Barbuda,f24be349-d191-47ad-a0ca-e9c4bfa951ff,Medium
+310,2025-02-18,11054,Hungary,Bahamas,3b508479-e5e4-4f07-a439-7710bcf3668e,Medium
+311,2025-03-21,850,Romania,Fiji,daef2f64-0bc5-4041-a22b-9d654ec8d37b,High
+312,2025-01-23,4991,Latvia,Palau,943a86f7-a2d0-4cf0-bcfd-0c348556d433,Medium
+313,2025-03-21,2095,Korea,Saint Lucia,2979f2a2-4530-46b4-9fb2-8380cc31aa55,Low
+314,2025-02-26,662,Wallis and Futuna,Greece,0117b846-9422-4c59-b4be-e6fa0af654bc,Low
+315,2025-03-01,2008,American Samoa,Kuwait,173b6e42-f99e-41f2-9229-f22584f5aaed,High
+316,2025-03-09,11771,Holy See (Vatican City State),Lao People's Democratic Republic,ddfb250b-67a3-4574-9dc8-130d22a850e4,Low
+317,2025-02-03,1164,Bangladesh,Peru,a2acdc43-aef9-4853-88ea-995e2f8ff2c3,Low
+318,2025-01-20,14915,Montserrat,Colombia,0ba17769-93f9-4f8c-8a40-9402c4bf27ac,Low
+319,2025-01-07,221,Burundi,Austria,d38d2a3c-015e-476d-9aa1-fdf0698ef02c,Low
+320,2025-02-16,4923,Nauru,Bosnia and Herzegovina,23e0aa2d-f714-49bc-9f45-4f6af1947ce1,Medium
+321,2025-03-04,529,Mayotte,Cuba,5080788e-f2a1-4f67-bfe8-4db8f9a5399f,High
+322,2025-02-22,1031,Gambia,China,e205fd05-4bc1-4662-b875-c222eabd4fd2,Medium
+323,2025-01-12,4304,Mayotte,Brunei Darussalam,86a0af18-8064-4a64-bb1d-659a49c221db,High
+324,2025-02-14,1914,Liberia,Romania,5e8fa60c-75fb-4315-972c-1f895ed9e5a6,High
+325,2025-02-22,4371,Kuwait,Uzbekistan,53aef8bc-0192-483a-a792-9ddc543912ab,Low
+326,2025-02-13,13423,Anguilla,Bahrain,eda34d97-a23d-4dbc-ac45-8a0a80bb6272,Medium
+327,2025-02-09,984,Mozambique,Marshall Islands,dbe3836a-3117-496d-93c0-e9a51da0c94c,Medium
+328,2025-02-16,702,Liberia,Netherlands,ade12ad4-a3fc-4bd9-b2ee-b95d9e208fa4,Low
+329,2025-03-08,638,Lesotho,Denmark,07ae9841-33b2-4fea-89df-e5ba0c58f0c4,High
+330,2025-02-28,4895,Antarctica (the territory South of 60 deg S),Samoa,be140108-087e-4891-8a46-4fe673260ea1,Medium
+331,2025-03-07,4993,United States Minor Outlying Islands,Japan,77b3578d-2f7b-4e66-93b7-ffcbd12839e3,High
+332,2025-03-06,3624,Bhutan,Canada,60c852ae-fa09-47ab-a30e-70e7ea308896,Low
+333,2025-02-07,4616,El Salvador,United Kingdom,96ffb304-df2e-48b6-9d0f-a66d60b51bd2,Low
+334,2025-03-02,12276,United Kingdom,Turkmenistan,e5808e3d-abb7-4f2a-aa12-d17936ac0726,Medium
+335,2025-01-02,3507,Cambodia,American Samoa,86ada29b-583b-45bf-936a-845501c56101,Medium
+336,2025-01-07,12566,Taiwan,Isle of Man,3cca8100-2d55-4bc5-8c62-0e525b584ea2,High
+337,2025-02-11,3985,Dominican Republic,Ethiopia,3cd86dc9-97df-4b70-a50d-b0e374a2845c,Low
+338,2025-01-22,863,Qatar,Belarus,0f854c20-c05c-4a61-990c-c7a4f653a86b,High
+339,2025-01-25,3152,Honduras,Taiwan,a4f1dd3c-2b52-48e6-b851-996f36f47d71,High
+340,2025-02-12,4700,Ireland,French Southern Territories,c294606c-9c4c-4e48-bf57-043191aa6147,Low
+341,2025-01-01,12396,Mexico,Ukraine,a9a3c215-341c-4438-aa7e-15071d10f1e5,Medium
+342,2025-02-04,521,Uruguay,Malawi,d26697de-edba-4839-977a-752efc426da7,Medium
+343,2025-02-16,948,Hong Kong,French Guiana,3bdb654a-1df3-465f-b2d1-82b12339f676,Low
+344,2025-02-12,11337,Tajikistan,Antarctica (the territory South of 60 deg S),17687b6d-d3da-4a0a-9077-38a6514fa1aa,Medium
+345,2025-01-11,4656,Guinea-Bissau,Poland,cde82f40-e788-45b0-9db3-993937218b29,Medium
+346,2025-01-21,11352,Ecuador,Romania,9209d205-bca5-4de4-ba47-abb0a0418245,High
+347,2025-01-31,4660,Morocco,Northern Mariana Islands,c3474b95-b1bf-4b27-8743-13a436538b69,High
+348,2025-03-20,2290,Hungary,Wallis and Futuna,d58d19e0-8f17-4f96-aa7d-eecac4832177,High
+349,2025-02-13,2631,Malaysia,Anguilla,39c19d23-14ed-4672-838c-f4c02807c650,Low
+350,2025-03-21,1273,Singapore,Tonga,39274c7a-48d9-4707-a7a4-e2db4ba98bcf,Low
+351,2025-01-31,14686,Slovenia,Kyrgyz Republic,c5f9346f-e68c-43aa-a117-102082394765,Low
+352,2025-03-06,4445,Bulgaria,Northern Mariana Islands,d45a35f0-25ca-49a1-b831-e38c69018225,Medium
+353,2025-03-17,2892,Gibraltar,Ukraine,1c24edb6-449b-4ba8-8a16-7ae5199d6566,High
+354,2025-03-03,2757,Svalbard & Jan Mayen Islands,Honduras,44a199a0-b633-4891-ac2a-6080e2d25503,Low
+355,2025-03-02,1374,Mauritius,San Marino,a455c0e3-1c83-4fa6-80bd-61ebbcdf5224,Low
+356,2025-01-20,768,Monaco,Malawi,dfb01afb-5d0b-4eaf-b0df-f1f1a26d8074,Medium
+357,2025-01-04,4078,Sweden,Palau,39798520-5e8d-4401-9895-80a7c9c5ec01,Medium
+358,2025-01-27,1865,Tokelau,Chile,a97c56ef-7a14-44e8-989e-a9478839cde2,Medium
+359,2025-03-18,1008,Central African Republic,Fiji,34ca0645-041a-43bd-915e-fdf2c208f6d9,High
+360,2025-03-03,4086,Panama,Equatorial Guinea,d3898c30-489c-4cf1-a19b-09e346e46f2b,Low
+361,2025-02-21,12737,Jamaica,Saint Vincent and the Grenadines,48d1ecc0-06b2-4fe3-8e18-2904a362190b,Low
+362,2025-01-07,162,Cook Islands,El Salvador,d981f2ed-50a0-4e99-af29-3958b2f9743c,Low
+363,2025-02-28,1224,Saint Lucia,Palestinian Territory,ddeefca9-e25c-4539-ade1-85c518fb71ef,Low
+364,2025-01-22,163,Uruguay,Germany,19142568-1b29-4232-b59d-6daf25348cb1,Low
+365,2025-02-07,1158,American Samoa,Saint Martin,233e385d-729e-4e63-b490-41964ab4b53d,Low
+366,2025-02-04,14077,Sierra Leone,China,6039f2bb-d648-472f-bc6a-30faeb1b542f,Medium
+367,2025-01-15,12752,Guyana,Netherlands Antilles,a3bcaf89-0f85-43d5-af71-48d2abed9ba6,Low
+368,2025-02-13,3673,Latvia,Uruguay,3cd25023-e854-4555-8465-36cdfb77331d,Low
+369,2025-01-25,2664,Mauritius,Denmark,d0328a70-7bcc-4a37-a777-cb86f94b8f79,Medium
+370,2025-03-17,3521,Armenia,Algeria,10ea335d-da9f-4699-972c-f471ab53e86d,Low
+371,2025-02-13,10907,Guinea-Bissau,Tanzania,ec051929-f626-4d29-990e-1f01661bcd47,High
+372,2025-03-20,3869,Fiji,United Kingdom,43a96b67-6ca9-49c1-9d55-f53d729af5bd,Low
+373,2025-03-20,2093,Tajikistan,Congo,a32bac8f-4cb7-4a36-9416-d15ce262ff74,High
+374,2025-01-27,12742,Albania,Hong Kong,cee29b00-1ac7-4ce4-9029-678e81ac186a,High
+375,2025-02-09,2881,Qatar,Burundi,936761b2-68e4-4647-b20b-88f0a4af8ecd,Low
+376,2025-02-28,725,Vietnam,India,dfdc3768-a702-49eb-a506-e9424ccddd60,High
+377,2025-02-15,11088,British Virgin Islands,Finland,45170309-2967-4b3d-ac1d-21532bba9ce8,Medium
+378,2025-01-01,14787,Jamaica,Djibouti,a37adfd3-e9dc-4a90-ad73-4b3c9c689d61,Low
+379,2025-01-08,942,Hungary,Albania,a86fda28-8223-4ed3-a620-35353378b801,Low
+380,2025-01-06,1352,Poland,Holy See (Vatican City State),1de5b86c-bc03-4c73-84bc-0f29eda079ef,High
+381,2025-02-24,4147,Reunion,Oman,ccf9739a-f8e2-468c-b7f2-4ab14d211034,High
+382,2025-01-09,3777,Korea,Korea,fb4a654e-9f35-4eab-9356-26579bcf7c29,High
+383,2025-02-01,2747,Isle of Man,New Caledonia,ca4fd37f-7668-47c8-b217-65fb52430719,Medium
+384,2025-02-07,659,Suriname,Burundi,55b14f27-b92b-4987-8fb0-2accda719b48,Medium
+385,2025-02-04,2350,Mexico,Korea,f65635ce-77e2-4072-835a-911d7ca6f3bc,High
+386,2025-03-11,707,French Guiana,Equatorial Guinea,6a8fdd3e-23f4-4334-983e-bc1448ea679c,Low
+387,2025-01-18,12520,Paraguay,Macao,1bb90843-5d6e-4508-96dc-a42a122c7989,Low
+388,2025-02-24,839,Djibouti,Guinea,ca041578-337d-4802-ac38-e6ab4773cafd,Medium
+389,2025-02-21,3890,Myanmar,Germany,bf2bfc39-37e6-4910-a14c-f0c5e40b51ed,High
+390,2025-01-21,13184,Samoa,Solomon Islands,6a8cd425-162a-4dad-ba89-3d160ebbc60c,High
+391,2025-01-28,1642,Saint Martin,Switzerland,2c259a66-486e-4c4e-baa4-b49b6aa7d2fb,High
+392,2025-01-04,1335,United Kingdom,Zambia,ba1fceb9-c742-46db-8179-5f3586cab3bc,Medium
+393,2025-01-06,790,Mozambique,Maldives,00f61683-91fe-4b83-b30d-84ac4816318f,Low
+394,2025-01-07,13086,Cayman Islands,Papua New Guinea,3b894b62-3680-47bf-90cd-5e68fb70f2d8,High
+395,2025-03-21,4382,Cote d'Ivoire,Costa Rica,606d32af-0bfb-40c9-a691-e730ae177f5b,Medium
+396,2025-03-19,2417,Albania,Netherlands Antilles,a46229be-9e89-4222-968e-5c86cc27ec0a,Medium
+397,2025-02-15,4997,Germany,Ecuador,fce538c8-57ab-472c-ba3f-4baf0f9c60a4,High
+398,2025-01-18,2841,Morocco,Malawi,d3356550-8868-444b-b9b2-8b7882cbf847,High
+399,2025-03-19,3266,Denmark,British Virgin Islands,a8829dab-89d9-4821-a37f-be0cf59e92fc,High
+400,2025-03-10,1331,Guernsey,Palau,eadf65e8-7813-4ff1-9483-3cf5dc900def,High
+401,2025-01-20,1258,Northern Mariana Islands,Russian Federation,4eae954e-9f21-48cc-adea-bacf20a6e5ed,High
+402,2025-02-17,3310,Nepal,Wallis and Futuna,e2b897cc-73c9-4aef-bfa0-bbd0d41001bc,Low
+403,2025-02-01,2636,Andorra,Yemen,f6f6d2df-a2f9-4315-ba1c-7645ee028264,Medium
+404,2025-02-18,1146,Ukraine,Brazil,70c610f6-5a7d-4cf5-9cc0-1fbddf3ce2bf,High
+405,2025-03-13,4412,Guadeloupe,Faroe Islands,ada25034-7ab5-4ac7-a032-3f3b13baea6e,Medium
+406,2025-01-30,4265,Zimbabwe,Bangladesh,79409428-7392-4807-98bf-7e640d67e40e,Medium
+407,2025-02-17,1576,Haiti,Jordan,903b595f-bc91-47f1-9769-c087b4cca40a,Medium
+408,2025-02-19,11355,Guam,Saint Pierre and Miquelon,f4b5cdf7-c01f-4bda-b9f2-30be36bf59eb,Low
+409,2025-02-18,11923,Antarctica (the territory South of 60 deg S),Hong Kong,72f4b724-38a2-4d0f-9dab-c44d939ad64c,Low
+410,2025-02-21,13921,Benin,Georgia,ea111136-874e-49af-bda9-eca7bb1905bf,High
+411,2025-03-18,409,Afghanistan,Uzbekistan,df0a2637-c03d-4252-bd42-e12e29b9ad68,High
+412,2025-02-01,1173,Djibouti,Montenegro,1d59bd03-d709-497a-aa9a-13bcb8d250d6,Low
+413,2025-03-10,14617,Cape Verde,Kuwait,7e61798b-5eec-4238-a85d-b8a7108f2769,Low
+414,2025-03-16,3685,Congo,Moldova,5472a723-191a-4ade-a476-c86baa9bb158,High
+415,2025-02-05,2045,Svalbard & Jan Mayen Islands,Yemen,8c0933b8-a6b5-488b-b3fb-68cf2a1922f4,High
+416,2025-03-13,3777,Marshall Islands,Cambodia,51a2dffc-d7ea-408f-8227-54d51314c4a9,Medium
+417,2025-03-07,3942,China,Nigeria,dc9cfbea-2ca3-469a-818c-6937137d587c,High
+418,2025-03-11,3709,Greenland,Nicaragua,165434cc-5dc8-4599-8aa5-798e4bea1440,Medium
+419,2025-01-04,4219,Yemen,Pitcairn Islands,f0e78d35-f2e9-4bcd-8bb5-a4a7bce416b9,Low
+420,2025-02-07,1735,Niue,Fiji,e7cad45b-7543-4a0a-b7b5-718d9b586784,Medium
+421,2025-01-08,527,Mali,Monaco,d63d11aa-5e0b-4f49-b0d0-16c6fea24fd7,Medium
+422,2025-01-28,4642,North Macedonia,Ethiopia,893b6553-a48d-4cdc-97a3-85d9fee0288c,High
+423,2025-02-06,1121,Sierra Leone,Peru,a130f87b-8388-4af3-aa0a-76c6d7975418,Low
+424,2025-03-01,13180,Sri Lanka,Angola,2352e4d0-f8ce-4817-bd35-071b2014dc71,Low
+425,2025-02-22,10251,Zambia,Ghana,f6d6798c-90de-4c18-ae2c-b9c1df973c04,Low
+426,2025-02-06,12363,Paraguay,Grenada,b3a9c01e-fa0e-4136-b383-266c88662884,Medium
+427,2025-02-20,536,Portugal,Georgia,db4ad9c9-45b1-4de3-b64c-5710f7793797,Low
+428,2025-01-04,3263,Vanuatu,Canada,3c3fb698-8e6f-4f2a-a293-9c03bcfcfec1,Low
+429,2025-01-01,10311,Luxembourg,Maldives,6c7aa408-af8f-4507-98f8-014b99153ef3,High
+430,2025-01-03,2846,Iraq,Germany,9f62256c-194f-4c89-9ca6-726859492663,Medium
+431,2025-01-19,3970,Fiji,Belarus,80bc2b09-24c2-401c-82eb-1d3da294ea5a,Medium
+432,2025-02-21,3774,Antarctica (the territory South of 60 deg S),Madagascar,28345af8-1bff-4156-8528-1d6c150adf32,Low
+433,2025-02-26,255,Ireland,Hungary,0b3b296d-0286-46e1-b44f-f793b82db2ea,Low
+434,2025-03-11,4595,Micronesia,Falkland Islands (Malvinas),1be9b89a-7e1f-45ec-b26b-b7e9627dad9b,Low
+435,2025-02-08,2460,Liechtenstein,Brunei Darussalam,a20229a7-6ae3-4894-b376-47764219dfb0,Low
+436,2025-03-14,2053,Chile,Paraguay,714cc114-dc23-4147-bb0d-92a5ce715351,High
+437,2025-01-22,3844,Mauritania,Tajikistan,10fde54d-12c6-4614-9820-2baf59d21fb1,Medium
+438,2025-01-28,4988,Venezuela,Brazil,def43126-61df-4e7b-b4d3-bf2d9384a643,High
+439,2025-01-13,4810,United Arab Emirates,Svalbard & Jan Mayen Islands,51ec0277-2835-44f3-9f30-f942053ceb5f,Medium
+440,2025-03-19,3616,Mauritius,Paraguay,e1d34ed2-b065-4f1d-bc8c-4b201c6b4e97,Low
+441,2025-02-06,4774,British Indian Ocean Territory (Chagos Archipelago),China,bcdb3980-e02c-4796-849f-e8da50f17929,High
+442,2025-01-13,13788,Heard Island and McDonald Islands,Gibraltar,0d5bcae5-f350-477b-8a4a-7bed91a28905,Low
+443,2025-03-13,4409,North Macedonia,Mauritius,261319f5-1eeb-4932-a1b1-5a63eebb7d6a,High
+444,2025-03-06,4639,Mauritius,Bhutan,c71da1a8-6459-4004-b4df-70b510921d54,Medium
+445,2025-02-22,456,Iceland,Bangladesh,99ad75a4-f493-4736-a68b-9e1c38e37132,Medium
+446,2025-01-29,2177,Zimbabwe,Myanmar,4675b7b3-a53f-40c6-bdfa-a9b488b794c2,Low
+447,2025-01-01,2924,Liechtenstein,Taiwan,116bdeb2-fcf8-4060-824e-1146505e2044,High
+448,2025-01-24,949,Bulgaria,Timor-Leste,eb77e09e-a167-4d51-a0c5-a343e3817ebc,Medium
+449,2025-02-18,1192,Cayman Islands,Azerbaijan,2f07a2bf-c8d5-4cba-bf01-4ff271442f8c,Medium
+450,2025-01-31,13306,Reunion,Greenland,61200dfa-d193-4770-b050-31d621452a69,Medium
+451,2025-01-13,1593,Solomon Islands,Christmas Island,fed37086-72a8-4565-9b53-7b6955895f89,Medium
+452,2025-02-06,402,Ireland,Malta,d5d318ef-6edc-4d58-bd05-a40f75b79681,Low
+453,2025-02-10,12085,Japan,Saint Barthelemy,c722146f-3ab3-4a46-abb1-a329a3ba7cb3,High
+454,2025-01-04,3362,Nauru,Samoa,da90bc72-22b7-48a2-bb40-76c80db317d2,Low
+455,2025-01-15,1665,Antigua and Barbuda,Taiwan,6b076b37-5699-4b91-b9e6-51ffac117470,Low
+456,2025-02-13,2819,China,Saint Lucia,f5cfa795-c6f5-4ffc-a5d2-b639d8c377cd,Medium
+457,2025-03-13,3679,Palestinian Territory,Seychelles,730569ef-6e59-4c60-890d-85ba6c81470d,Medium
+458,2025-02-05,2877,Ukraine,Ukraine,0537e171-533b-4d31-b2e7-2614a590dd4e,Medium
+459,2025-01-08,3109,Heard Island and McDonald Islands,Croatia,689142c9-6e75-4abe-aafa-c26203856c90,Low
+460,2025-01-07,3577,American Samoa,Ghana,45bc4ab0-f13e-4ca4-9f23-66dcdc956405,Low
+461,2025-02-17,4568,Reunion,Nigeria,36c35a29-c0f7-4c1e-a7a3-a7097efb1f08,Low
+462,2025-02-20,2786,Netherlands Antilles,Algeria,a8e55d3e-fc38-423e-916f-b46720d463af,Medium
+463,2025-02-07,3590,Haiti,Turks and Caicos Islands,cf02c021-a9ea-4282-bcf0-5b85169acee1,Medium
+464,2025-01-04,3762,Burkina Faso,Cape Verde,22f1641d-01aa-4bef-a633-11409569c9d7,Medium
+465,2025-01-11,3663,Angola,Kiribati,19b8f112-e15e-410b-9be7-5e01dc6d8566,Low
+466,2025-02-01,714,Christmas Island,Mauritania,6ead3d30-5fe5-4da5-a7e8-4efca7e6ebee,Medium
+467,2025-01-27,10810,Burundi,Malta,88d6ed28-5c3e-4207-8aa2-fa30b3ed2ad8,Low
+468,2025-02-28,3689,Christmas Island,Libyan Arab Jamahiriya,7b2fc618-8d59-4f3b-bff0-127284bf91e3,Low
+469,2025-03-13,3100,Lao People's Democratic Republic,Indonesia,9cfefcfe-78ea-4ee1-a8ee-fe2a77d54d6e,High
+470,2025-02-05,365,Jordan,China,5ab79225-f3c6-4590-8ada-a1e3f237fcb3,Medium
+471,2025-03-20,3138,Mauritius,Madagascar,d40e3ba8-1230-454a-b75b-4cfadc702f9f,Low
+472,2025-01-26,4801,Guatemala,Heard Island and McDonald Islands,a49086ec-f5e3-4eae-95e0-a4b3e6c1f53e,Medium
+473,2025-02-21,2675,Czech Republic,Kazakhstan,ab270811-45e9-4f3a-aaaa-46a42eb20003,Low
+474,2025-01-31,312,Oman,Indonesia,6259fbf6-6c38-4771-9f5e-5b48e2150d86,Medium
+475,2025-03-04,4701,Finland,Cook Islands,d4661ba4-e62a-4a53-8e87-f15eb96dce86,Medium
+476,2025-02-26,11257,Tokelau,Saint Kitts and Nevis,11d9b2a6-e165-4ce5-a3f7-9945786c3ef6,Medium
+477,2025-03-06,4123,French Polynesia,Congo,f3ad9163-fc35-4033-8c14-70ddb4db95e7,Low
+478,2025-01-13,10914,Kyrgyz Republic,Honduras,a054361c-c3a2-4a03-a041-8a9e3b2256c7,Medium
+479,2025-02-23,819,Jersey,Marshall Islands,2db2c89f-2775-4d2a-a2f7-0a8e197d44fe,High
+480,2025-02-17,631,Djibouti,Gambia,cc13555f-acdb-4c3b-846d-2544eee20327,Medium
+481,2025-02-26,1390,Sudan,Norway,97ed418b-09f1-4327-a5bb-ed02c271e0c9,Medium
+482,2025-02-13,4267,United States Minor Outlying Islands,Gambia,0e72b931-23e0-4754-bc56-d47259c5967d,Low
+483,2025-02-28,1237,Switzerland,Denmark,5cef2a0c-358c-4ef2-b7ef-75ec1e17a14c,Low
+484,2025-02-06,3056,Turks and Caicos Islands,Egypt,0c3ac020-7a52-4887-adc2-e565304b409a,Medium
+485,2025-03-21,4619,Norfolk Island,Australia,0a9957f7-6e4f-4c9c-9009-68ff1c91ae16,Low
+486,2025-02-10,638,American Samoa,Albania,104c5ba4-190a-46f4-a9a2-abff861326fa,High
+487,2025-03-06,4021,Bermuda,Poland,15600478-0de2-4614-8686-aa719c7be638,Medium
+488,2025-02-19,4809,Thailand,United Arab Emirates,e59efa70-f131-4ad3-b42a-3ea0b0f3bc59,Medium
+489,2025-02-03,707,Angola,Yemen,54bf4976-b832-4655-8e04-262ec0d176b3,High
+490,2025-01-22,10551,Sierra Leone,Yemen,bfe84ee3-a95e-4e8c-b66a-c6c680946b6d,High
+491,2025-03-02,4915,American Samoa,Costa Rica,956ac19c-c7d7-4d79-8990-e8b2871afde1,Low
+492,2025-01-14,13619,Djibouti,Congo,ceee4687-fde2-4324-939e-b93126a7928c,Low
+493,2025-02-18,1117,Slovenia,Guatemala,c85433db-92bd-47d4-bce5-a64cd6916a49,Low
+494,2025-02-15,12143,Jersey,Taiwan,3c2cee9c-5781-41ce-a0d2-857dce873590,Low
+495,2025-01-20,13750,Monaco,China,2cabfc6f-2dd9-4277-8524-08633f49e7da,Low
+496,2025-01-23,2152,Antarctica (the territory South of 60 deg S),Haiti,c541ab5a-2d22-40ea-ae24-4c3c920d5c5a,High
+497,2025-01-22,2348,Cook Islands,Brazil,0ca8b145-db97-4433-a2aa-800f3611c079,High
+498,2025-02-02,4470,Malaysia,Zimbabwe,80e11365-1427-4230-9263-635b8dba56f5,Low
+499,2025-02-20,4948,Cameroon,Tajikistan,00be892b-52d5-4a2a-9c80-20edc05064b9,High
+500,2025-01-12,2865,Lao People's Democratic Republic,United States of America,b18f1ab7-63e2-49ae-96af-3a4fc8b62d73,Low
+501,2025-02-08,9872,Cuba,San Marino,febd62c1-5f1a-468e-b147-3fd5ce210ff2,High
+502,2025-01-25,2268,China,Pakistan,30a0684e-2c3f-4573-b2d2-6d29a8488f47,High
+503,2025-02-17,3512,Cook Islands,Suriname,0d1be1b7-e638-43fb-b66a-453399ec39be,Medium
+504,2025-01-01,4569,Italy,India,38c6efa4-fb74-4e6f-a209-5aa06c199697,Medium
+505,2025-01-21,11506,Western Sahara,Northern Mariana Islands,6e2f4d2c-3dcb-4b6e-862a-dd24655739a1,High
+506,2025-02-25,3426,Yemen,Slovenia,7abc1dfa-45c9-4b1c-a1ea-52002558e5b1,High
+507,2025-03-11,590,Burkina Faso,Lesotho,124fa2f8-a052-43ab-9dae-051fc3563655,Medium
+508,2025-03-06,3904,Bermuda,Trinidad and Tobago,19724ebc-ad32-4d72-96ed-a5eba3193947,Low
+509,2025-02-20,2660,Vanuatu,Afghanistan,8c1f431a-f1ce-4ac4-bc42-890f477bdae2,Medium
+510,2025-02-27,3366,Belize,Liberia,40d5d82b-55a3-4b11-a1ef-59a45d78c9d0,High
+511,2025-01-17,4701,Dominica,Mongolia,016f3687-390a-4091-b122-c88e3097adb1,Medium
+512,2025-02-14,1103,Jamaica,Costa Rica,4126910e-eabf-406d-b49c-d33a2a0c502f,Low
+513,2025-01-07,893,Portugal,Slovakia (Slovak Republic),5bbaf5f4-3414-4cf1-859f-730f7ce6d6e0,Medium
+514,2025-03-12,11533,New Zealand,Bolivia,37312a2c-6636-4667-a1ed-3334cb4fcaa5,Low
+515,2025-01-08,2782,Puerto Rico,Anguilla,da123991-a1f3-4681-b89e-f42cdf777007,Low
+516,2025-01-15,13581,Thailand,Cote d'Ivoire,9552f2d8-3aeb-4a82-8be5-64e9815e5c52,Medium
+517,2025-01-07,4185,Hungary,Tonga,5325425e-5489-43d9-827c-86d9d27c6089,Low
+518,2025-03-02,3321,French Guiana,Saint Kitts and Nevis,c031187f-3ddc-49af-afed-042bc1ecbb6e,Low
+519,2025-01-07,1862,Brunei Darussalam,Tanzania,3563d7de-b4a8-472f-a116-516cddabec40,Low
+520,2025-01-15,2404,Bulgaria,Dominica,34550d4b-5ea6-4cc3-a5e8-80b996299080,High
+521,2025-01-20,3955,Russian Federation,Saint Vincent and the Grenadines,a5f84b41-c9b0-4512-8473-ec29e3dc7138,Low
+522,2025-02-13,10597,Sierra Leone,Saudi Arabia,880af4fa-24ec-4402-8096-9edd9f7f86c4,High
+523,2025-03-05,3096,Vietnam,Bahrain,6e01aeb8-cd6e-49bc-9b70-1a8a6f4e00ea,Medium
+524,2025-01-19,519,Bosnia and Herzegovina,Gibraltar,fcb51c5e-9dfe-4ea1-892f-09180031b813,Medium
+525,2025-02-15,4632,Kenya,Eritrea,13ce9469-3e02-44d2-97a6-ffc15ff3a59d,High
+526,2025-01-03,3789,Indonesia,Monaco,0d38f9db-7d9f-4a01-9a10-016e0649df86,High
+527,2025-03-05,10554,Burkina Faso,Tanzania,e26b57f1-6803-4f65-b60a-97c9292c23c9,Medium
+528,2025-01-29,3157,Armenia,Central African Republic,97e7dd87-6b96-4c2e-80fa-695a0b94d08d,Medium
+529,2025-01-12,1281,Equatorial Guinea,Nicaragua,1bc8d4d7-87b2-4da8-aa97-115aa93445d5,Medium
+530,2025-01-22,4196,Aruba,Qatar,a94344c9-3aa1-4f23-86d6-07476c2eee6a,Low
+531,2025-03-09,2828,Pitcairn Islands,United States Minor Outlying Islands,fdd45f1a-e14d-45d1-8414-2db3d42225e5,Low
+532,2025-03-15,4323,Samoa,Korea,66728fee-edf5-43b2-9870-d3380376a158,High
+533,2025-02-21,2709,Falkland Islands (Malvinas),Western Sahara,168bfd85-301a-4a45-8604-01bdddb562d4,High
+534,2025-03-09,2551,Cyprus,United States of America,40cd6aae-2ced-48f8-9b50-24d63d8a8a7d,High
+535,2025-01-13,4460,Afghanistan,Burkina Faso,75f70549-ad7e-48b5-aaf3-204070ea5d04,Medium
+536,2025-02-03,3990,Norfolk Island,El Salvador,daf9f79e-831d-4732-b32c-bfc62850b623,High
+537,2025-03-19,997,Denmark,Portugal,b99138b5-7b6b-471c-ae07-6970dda53f43,High
+538,2025-03-15,318,Gibraltar,Philippines,5e2e4023-9b34-4d29-a572-676c10351a99,High
+539,2025-03-15,4838,Sao Tome and Principe,Jamaica,ac9901f1-5b56-47ff-aa06-13fef26365f4,Low
+540,2025-03-06,4880,Botswana,Papua New Guinea,1a11a825-824d-422b-a16e-b515b185491f,High
+541,2025-02-05,10710,Belarus,Tajikistan,64bb7fdc-63f5-4c0b-b3b0-5531b772d684,Low
+542,2025-02-27,14190,American Samoa,Nigeria,9c3d4c9b-2f77-4834-90cd-383550e4f595,Low
+543,2025-02-16,1662,Moldova,Georgia,71e5464f-8e01-4dc0-8c85-93661c7fbc71,Medium
+544,2025-03-08,1340,Zambia,Niue,9085bbe1-764d-427a-939f-e9e3cfe89daf,Medium
+545,2025-01-08,14509,Turkey,Argentina,3239e817-bcd0-45e0-b5c9-b3488d2d4129,High
+546,2025-02-08,610,French Polynesia,Sierra Leone,dbe240c3-6cdd-442b-b5bb-2a2c660c27c6,High
+547,2025-01-02,2762,Guinea-Bissau,French Guiana,d05bfed5-88bb-4c42-9946-d1cb54d91cc3,Medium
+548,2025-02-14,2670,Samoa,Anguilla,b97f5102-7cf6-43bc-b3fc-6b14614e6ab0,High
+549,2025-01-18,2904,Serbia,Marshall Islands,c9f1e89d-1ed7-48e6-9404-70f10750af57,High
+550,2025-02-15,2265,Armenia,Turkmenistan,3e54f912-1713-49f2-bfc9-9b9541874a1b,Low
+551,2025-03-18,2385,Dominica,Costa Rica,0df1c869-8ecc-4983-9c2d-c70c5592991e,Medium
+552,2025-02-15,2467,Denmark,Micronesia,7234a67b-8a81-41b4-bf36-4852fbbad0f9,Medium
+553,2025-03-20,2697,Nigeria,Saint Pierre and Miquelon,1ce997ce-514e-48b6-9f58-789711a0d021,High
+554,2025-03-02,2340,Bangladesh,Liechtenstein,7c764d52-94db-478b-ad95-ed2fc41c5023,High
+555,2025-01-03,12610,Tonga,Saudi Arabia,c6cda45d-6931-48e0-9449-f27781d5377e,Medium
+556,2025-02-04,2927,Guinea,Swaziland,020da056-70fe-4818-8930-9fe65773dd20,Medium
+557,2025-01-25,12337,Central African Republic,Fiji,723406f5-e456-42bf-bd2b-60db75476d1b,High
+558,2025-01-30,2200,China,El Salvador,58ac95a3-805e-43e4-b86e-415db9a7a9eb,High
+559,2025-02-26,2321,Cote d'Ivoire,Ghana,424666d1-fb88-4ac2-8b41-54ef7a2d29c4,Low
+560,2025-02-14,994,Jersey,Gambia,c85a3bc1-bdf9-4a28-82cf-2655810aa98e,Low
+561,2025-01-27,2086,Netherlands Antilles,French Guiana,575262f0-840a-444c-bfc9-ab4c62ca1f25,High
+562,2025-02-03,1948,Pakistan,Maldives,9a693a70-b554-43c6-bbd0-32600acbc83d,Low
+563,2025-01-20,3485,Syrian Arab Republic,Comoros,17eb18c5-83b2-4d39-98f6-8f3564f4721d,Low
+564,2025-02-15,9542,Bahamas,Ghana,e724c901-534e-4f7c-a3f9-7b244a8f77af,Low
+565,2025-03-13,14848,Grenada,Namibia,c96113f0-cceb-49f7-bfa3-675c65c87786,Medium
+566,2025-02-24,4011,Eritrea,Madagascar,689491eb-ef4d-476c-95ba-d94035e50e24,Medium
+567,2025-01-22,2731,Latvia,Cameroon,5a5ddfa4-e0dc-49b3-adc9-82e066e6fee4,Low
+568,2025-01-20,4803,Kiribati,Ethiopia,d6cec91d-23c2-42a3-b500-f7ddbcca68df,High
+569,2025-02-24,405,Cape Verde,Ethiopia,84e514e5-7eed-4826-8058-dd19e709d6e4,Low
+570,2025-01-23,397,Namibia,Tajikistan,c58032c0-37ad-42b1-a921-15b154dbae7c,Low
+571,2025-01-29,2471,Mayotte,Saint Pierre and Miquelon,df44ae70-7e45-4a7c-94cd-ff652f0ec01e,High
+572,2025-01-11,979,Mozambique,Indonesia,ed248529-22d0-44ec-9e7e-4dceefd6bf2f,High
+573,2025-02-12,4550,North Macedonia,Dominica,0bab5d6f-25ee-41db-b982-316757bf8646,Low
+574,2025-01-03,4230,Isle of Man,Egypt,7c4cb1ad-6dfa-4c67-af84-4b53f81c9eb6,Low
+575,2025-02-21,2808,Faroe Islands,Colombia,3dde0df5-cd7e-4e50-9f87-287c27b04c69,High
+576,2025-01-18,2207,Liberia,United States Virgin Islands,e495c56f-81c9-4516-9227-34cccdded7fd,Medium
+577,2025-02-25,2516,Liberia,Japan,6f32cfbc-fd97-4af7-babc-56def482e13e,Low
+578,2025-01-25,14504,Sri Lanka,Guinea-Bissau,2d810528-73ec-4838-9895-bc9d7e60899b,Medium
+579,2025-02-06,3603,Ireland,Hungary,abc3f7b7-806e-40db-b583-a6f0e8305412,Medium
+580,2025-01-03,11013,Svalbard & Jan Mayen Islands,Kazakhstan,eeb260c2-d6b9-4625-9b67-966c0662b989,Medium
+581,2025-03-18,2750,Fiji,Ireland,c5804157-bd98-4f5a-9004-ead12c358885,Medium
+582,2025-03-12,2029,Poland,Chile,0c90f3f8-ad24-4bb3-8a43-ab0df702f19e,Medium
+583,2025-02-20,2573,Czech Republic,Turks and Caicos Islands,2c113f49-9fbe-49f4-8062-f6c086225930,Low
+584,2025-02-04,2242,Estonia,Iceland,dbda7dd6-5420-4930-8862-8388f768d666,Low
+585,2025-01-22,608,Bulgaria,Mongolia,f5c102e0-5bb0-45ad-bf02-daf559e66889,Medium
+586,2025-01-15,1408,Armenia,Latvia,58189fb0-bcb1-4ca3-93db-64d7f5ba14e7,High
+587,2025-01-07,2647,Wallis and Futuna,Samoa,3b956b0b-a15b-4f99-83df-c7ab57dc5bae,Medium
+588,2025-02-18,3110,Iceland,Bhutan,bcc8726b-4a50-452d-8a2d-d13de008b84e,Low
+589,2025-02-26,4017,Cocos (Keeling) Islands,Costa Rica,b23426e5-a4af-4a25-a587-51ce98a0f0d8,High
+590,2025-01-20,3160,Morocco,Sudan,4d93e8e2-ce48-4a75-aad4-0495c98fb7c3,Medium
+591,2025-01-09,14940,Korea,Sierra Leone,1ba37d93-80d4-43b3-8b73-207c0fc4b3d7,Low
+592,2025-02-28,4980,Niue,Tunisia,71e24a72-e9ba-486c-8d10-6ad5a254168a,High
+593,2025-03-02,10139,Georgia,Norway,63a898e4-71cb-4c79-83cd-2312ddb92bdb,Low
+594,2025-02-14,13986,Montenegro,Ghana,b242b07a-8532-44e4-87aa-b3dee89269b7,Low
+595,2025-02-15,4791,Bahamas,Saudi Arabia,d2b2a19c-c896-4e3a-859a-781bef2be534,Medium
+596,2025-02-26,4362,Burkina Faso,Korea,72b17c6c-f448-4c81-9427-06d0644ff7cc,Low
+597,2025-03-16,4877,Canada,Zimbabwe,677810e5-e0ce-4594-8015-d77ee6465ce2,High
+598,2025-02-08,3749,Thailand,Chile,cd76000c-8002-4065-aa1c-4902f0ac6ded,High
+599,2025-02-01,3503,South Africa,British Indian Ocean Territory (Chagos Archipelago),f3d61a68-1264-4c2b-8d5b-f48e09324f8f,High
+600,2025-01-26,3887,Thailand,Egypt,9c19d45d-7cb2-4981-bafc-c47b6a3a646c,Medium
+601,2025-03-11,2184,Zimbabwe,Saint Martin,ad6640f4-a061-49b0-8477-e18d702dc72a,High
+602,2025-02-28,698,Afghanistan,Denmark,cc7242f9-8b92-4f07-a6c9-c266bfec8329,High
+603,2025-01-30,13933,Sierra Leone,Micronesia,1a63288e-f0d5-40cf-a89b-98f8eea69d1f,Low
+604,2025-02-19,3967,Belize,Morocco,38e1b3d3-6a80-4059-bd47-3528b9c9c443,Low
+605,2025-03-15,14755,Turks and Caicos Islands,Finland,96ec0396-0a4f-4487-b6b0-94624f91b45f,High
+606,2025-03-03,12567,Kuwait,Aruba,8a73b818-879d-4f66-9758-ff3c9095084d,Medium
+607,2025-03-05,3774,Tajikistan,Malta,6edb981c-0b76-468b-bb9c-167b5430db17,High
+608,2025-01-11,4517,Turks and Caicos Islands,Cocos (Keeling) Islands,8d2a79dc-ba4c-4b6c-a3c4-a1b36a01d199,Medium
+609,2025-02-21,10962,Paraguay,Mali,034a1123-2ce6-48e5-a8ff-03057f7f1ea7,Medium
+610,2025-03-07,4432,Cape Verde,Honduras,00da3727-2691-42a2-9ae5-4af70b784828,Low
+611,2025-02-11,9686,Libyan Arab Jamahiriya,Saudi Arabia,c91f8d77-986a-47d4-bf33-711a438b2432,Medium
+612,2025-01-03,4560,North Macedonia,Jersey,be06ccdf-5f1f-4fea-a41e-198d5f17ed0c,Low
+613,2025-01-25,2127,Suriname,Guinea,9efbde15-959e-47f1-aa35-09a426603fe8,Medium
+614,2025-01-31,1644,Nepal,Denmark,7e648a54-f177-4b66-b156-baf4165c42a1,High
+615,2025-03-03,3534,Greenland,Micronesia,1cad9d5e-ed9d-4823-a0fc-d0fbc1c4b042,Low
+616,2025-01-14,2071,Slovakia (Slovak Republic),Rwanda,644fa12f-7399-4ab2-93cc-61e38c97a315,High
+617,2025-02-22,375,Niue,Anguilla,aa1ed149-4d1a-41b0-83a2-5b449db33b8a,High
+618,2025-02-26,498,Congo,Uzbekistan,8d51348d-20f2-4cac-bd28-75110c5645d1,Medium
+619,2025-02-17,3695,Ireland,Turkmenistan,a50373a5-ad42-493a-8e40-874bff8932fa,Low
+620,2025-03-19,13627,Uganda,Thailand,475dea3a-37bd-44e5-9ce1-234ece74a556,Low
+621,2025-03-20,4819,Moldova,Italy,87933e0f-11e1-482d-be5a-79e8ec3ecb06,High
+622,2025-01-08,2726,United States of America,Pitcairn Islands,17aa41d2-8552-4fe4-9faf-60c1c2457685,Low
+623,2025-02-20,4370,Gabon,New Zealand,63af564b-a662-4de8-b9ac-24b6bc194706,Medium
+624,2025-01-31,14060,Jersey,Austria,ba562633-7e20-461a-b680-ef23b92a2d04,High
+625,2025-01-22,1534,Lithuania,Belize,72cccdc8-715f-4758-a977-3da2d3c3c5c3,High
+626,2025-02-21,9884,Gabon,Azerbaijan,e91e2fe2-af15-49b2-a138-b21627263127,High
+627,2025-03-01,3222,Uganda,Seychelles,7182856a-eeaf-4d9b-9f51-c38151d0bc59,Medium
+628,2025-02-02,3444,Nepal,India,edb4b0b1-67da-4b9e-a799-296337728b65,Low
+629,2025-02-02,4506,French Guiana,Guinea,a53a2554-274b-4cfc-9bc4-16fa7d1bc1d1,Low
+630,2025-02-14,10682,Ethiopia,Cook Islands,d6d5d153-09d5-4c0e-9385-8320897fa062,Low
+631,2025-01-05,12880,Svalbard & Jan Mayen Islands,Algeria,91cce7fa-2c1c-4e14-968f-c39a5b0bb148,High
+632,2025-02-11,4441,Tokelau,Dominican Republic,a3bf8161-3861-497e-9dcc-4fb0251dd59e,Medium
+633,2025-01-28,1765,Honduras,Cyprus,5a4435af-1f36-45d0-bb53-bf3a05a53c6c,Medium
+634,2025-03-03,3139,Guatemala,Singapore,8f162931-682e-48fd-9d21-1de1099e820c,Low
+635,2025-02-18,522,Lebanon,Denmark,aba74a32-20e8-40d6-a2d4-908d11dc8e85,High
+636,2025-02-20,423,Benin,Gabon,17536eb5-e660-420e-8410-8a56e0ec65fd,High
+637,2025-02-12,4678,Sierra Leone,Vietnam,9e5fc029-3354-4f64-a13d-505eb1490748,Medium
+638,2025-03-13,2583,Martinique,Norway,0a04a7dc-f3aa-48b4-8cf8-8460674ac247,Low
+639,2025-03-21,13423,Mauritania,Spain,62c294b8-cc50-4ac9-8ca4-e5d106ea2cd0,High
+640,2025-02-19,12749,Puerto Rico,Tunisia,3c0e5aef-eab2-4441-be97-2754e5ab0ff6,High
+641,2025-01-19,2734,Timor-Leste,Indonesia,6a628f77-92c2-4a28-9db2-9bc81fafe128,High
+642,2025-01-08,3043,Macao,Ghana,707f7702-6b8f-4bc0-9717-5e4bfaff6150,High
+643,2025-03-15,4173,Palau,Namibia,8ea13f70-d878-4ac0-8794-521c60848f02,High
+644,2025-03-06,12123,Equatorial Guinea,Timor-Leste,ffe1d2a7-7cc9-4771-ac01-97df424edbd7,Medium
+645,2025-01-16,2663,Saint Martin,Slovakia (Slovak Republic),6e4d1c8d-1a63-4950-960e-682d0f7a3ca8,Low
+646,2025-02-18,1295,Bouvet Island (Bouvetoya),Algeria,6ee260a4-60b5-4a55-93ce-a28fcf200bcd,High
+647,2025-02-08,4844,Guyana,Antarctica (the territory South of 60 deg S),e101ad4e-26ef-424a-b014-0ae2843cc3fa,Low
+648,2025-02-17,2802,Indonesia,Saint Pierre and Miquelon,ac43f142-aad3-46e5-a7bf-396a2bc762b6,Low
+649,2025-03-07,4190,Iraq,Guernsey,313dc0f0-e98b-4b6a-83ab-69924b0c55dd,High
+650,2025-02-27,2865,Panama,Botswana,c0e23b53-2129-467d-ac00-c535ae5cbe21,Medium
+651,2025-03-21,4118,Zimbabwe,Christmas Island,9af8d8a6-3e08-4f78-827d-6e87390db528,Medium
+652,2025-03-19,1486,Cyprus,Guinea-Bissau,c28cc626-d72c-4b4c-ad68-8e9c234121b7,Medium
+653,2025-02-24,13941,Russian Federation,Japan,d5a94b7f-487c-4148-b723-bf54a2b6abaf,Low
+654,2025-02-07,9777,Belgium,El Salvador,78d41f6f-1a66-4e2e-aca8-e5d71dec1360,Low
+655,2025-02-07,497,Canada,Bangladesh,cde28d0d-2d3d-4645-bb3c-e195d0aa9c8f,High
+656,2025-02-22,1995,Isle of Man,Ecuador,9d0b54d4-ee93-44b1-ba1b-c575d4ce09b3,Low
+657,2025-03-14,1891,Mozambique,North Macedonia,c33a850d-f2e6-447c-b621-582f90533e37,Low
+658,2025-03-05,4058,Guinea-Bissau,Bahamas,a9b1413a-1f26-4f4a-acc5-ccb20e5477fb,Low
+659,2025-03-06,4459,Djibouti,United Kingdom,28a2c6ad-75f4-4d8d-a2c7-b0382be74336,Low
+660,2025-03-05,4436,Antigua and Barbuda,Serbia,fe89cf30-2678-4f26-8a3b-492a758e8b39,Medium
+661,2025-01-29,13614,Gibraltar,Saint Helena,39aab7ad-c268-4b10-ad57-13ff70486d49,High
+662,2025-03-10,3627,North Macedonia,Puerto Rico,bc1ea232-d86e-4d6b-a6f9-615793272907,Low
+663,2025-02-18,4395,Greenland,Dominican Republic,548267f7-8b43-47d0-9cef-47f990db0e1d,High
+664,2025-01-19,11567,Turkmenistan,Benin,17f84689-5d37-41f2-b456-5215f89b2c95,Medium
+665,2025-01-06,3351,Nauru,Czech Republic,c5cc387a-4eb4-4ccf-ac21-d3ddf11d9b86,Medium
+666,2025-03-03,3860,Grenada,Brunei Darussalam,d6a23ee6-9cd6-4576-a39a-dab6759c5067,High
+667,2025-01-13,1950,Andorra,Mali,73404e6e-5f97-4936-a199-f9307fbf3215,Low
+668,2025-01-06,359,Finland,Albania,70b01261-95f6-4320-a64d-e8d46ff3901d,Medium
+669,2025-03-15,4627,Svalbard & Jan Mayen Islands,Trinidad and Tobago,d745a568-9771-4b3f-bab9-91ced859eb42,Low
+670,2025-01-12,1503,Yemen,Mexico,f085eab8-b02e-496d-b975-0732bd1c9053,Medium
+671,2025-01-26,14135,Haiti,Philippines,d57f603e-0a66-4571-9df7-d0af68f8fa7b,Low
+672,2025-01-14,4426,Uganda,Iraq,ac9a47b9-86f9-4a68-af6c-0d123e3e5a25,High
+673,2025-01-09,4743,Cameroon,Finland,61a4300a-ee6f-44ad-b80d-f8e069602a43,Low
+674,2025-01-21,2396,Netherlands,Zimbabwe,9a8bfe04-28ef-430e-9ded-54dfa4273743,Low
+675,2025-03-15,1569,San Marino,Guam,261c5ab6-8c77-4c51-8e3f-2671b64845c3,Low
+676,2025-03-07,4908,Morocco,Turks and Caicos Islands,e2bd0d64-0d1e-4041-8cf1-05ed4c6cb87f,High
+677,2025-02-11,3362,Uzbekistan,Martinique,fd0b56f6-fb47-40ae-b398-cc56539598a0,High
+678,2025-01-18,14142,Chad,Malaysia,d6f7297b-0e8a-4399-8daf-e54b7f4c1f47,Medium
+679,2025-01-26,4528,Congo,Myanmar,ba7b4d45-4851-4d07-b44f-853010e2063d,High
+680,2025-02-18,1246,Finland,Kuwait,22098ef5-0cf1-4ce5-9f6a-8a8679f0621d,Medium
+681,2025-01-23,539,Uganda,Syrian Arab Republic,dee71db5-d78d-4ccd-89f1-5891918a0be9,Low
+682,2025-01-13,2890,Pakistan,Sweden,04b23f75-6ba2-42f2-a645-5066be0ebae2,High
+683,2025-01-05,3349,Netherlands Antilles,Christmas Island,661b3047-a692-4b50-a2ce-e18d7ace032a,Medium
+684,2025-01-30,3790,Bhutan,Liberia,9422ebb1-3399-46bf-a1dd-2e5e87e69179,High
+685,2025-01-29,3175,Norway,Myanmar,90d2426e-2341-4ee8-8a0a-03e553e7c77c,High
+686,2025-02-03,3213,Azerbaijan,Iceland,9e33c8de-7dfa-4360-a9ab-fddd987fffe5,Medium
+687,2025-03-12,2118,Isle of Man,Marshall Islands,b463206e-80d1-41b1-88c6-4678158739c4,Low
+688,2025-02-01,3212,Myanmar,Greenland,2807c2fe-10f8-4051-aef2-f56db38d288d,Medium
+689,2025-01-02,2694,United States Minor Outlying Islands,Lesotho,907ec41a-8201-4b36-bb01-907ca855a56b,Low
+690,2025-01-09,2625,New Caledonia,Sudan,7388a34e-eef2-4ddb-88cc-28c8fb82c4fe,Medium
+691,2025-01-15,937,Italy,Guatemala,4e710054-251c-4749-ad7b-fd51e3784344,Medium
+692,2025-01-14,3776,Falkland Islands (Malvinas),Ghana,ac3068d1-9417-4a6a-8bc7-75a55c6bbd4e,Medium
+693,2025-03-01,946,Denmark,Switzerland,07d51ff9-56e6-4b43-aebb-7276dcf86dde,High
+694,2025-03-11,862,Cook Islands,Saint Barthelemy,4cbc3147-0928-4b66-b8fe-e3a5e57d7d51,Medium
+695,2025-03-15,3255,Georgia,Monaco,89c42765-d61d-40fc-83e5-6c7d49fcf837,Medium
+696,2025-02-19,14083,Cyprus,San Marino,48ba3948-e755-4974-904b-2e482635b716,Low
+697,2025-02-09,4785,French Southern Territories,French Guiana,e6b5232d-8765-4c6d-9e3d-a1ca25d6a913,Medium
+698,2025-02-07,1488,Dominican Republic,Wallis and Futuna,ad42d53d-a82d-4fd1-ac0a-4f8d2782a523,Medium
+699,2025-03-03,4139,Qatar,Nauru,52fb650c-2af6-4e95-9530-9a94185b05a1,Medium
+700,2025-01-29,2360,British Indian Ocean Territory (Chagos Archipelago),Argentina,738211fe-f1ad-479a-9dcd-e5b556cc7f7f,Low
+701,2025-02-14,11561,New Caledonia,Malawi,656d324e-a962-4137-846d-4ff7a0a79eae,High
+702,2025-03-13,4161,China,Afghanistan,32a6486a-aa8f-4661-9869-0779f40102f4,Medium
+703,2025-01-28,976,Micronesia,United States of America,e799bdbd-c433-465f-b16b-d4dcca23a00a,Medium
+704,2025-02-04,2821,British Indian Ocean Territory (Chagos Archipelago),Tuvalu,c5588d9f-69bc-433c-baa6-460677d99426,Medium
+705,2025-01-24,3706,Niger,Cyprus,2eb95adf-b88a-4f9f-bd16-b93faf4435fc,High
+706,2025-02-22,4969,Canada,Korea,803da769-5c80-4b45-8608-b27d7d497581,High
+707,2025-01-20,1745,Russian Federation,Western Sahara,bf075e0f-609b-4139-8b0c-136ea54d161c,Medium
+708,2025-02-12,2714,Chad,Monaco,0506a853-0bb4-4774-9e72-27c326cc9997,High
+709,2025-02-07,4122,Gambia,Mauritania,f62ee845-20a6-4d9d-930a-66bf0d90624e,Medium
+710,2025-02-28,11796,France,Estonia,36129e61-698e-4864-9264-8cf56b9057ec,Medium
+711,2025-02-14,10432,Eritrea,Morocco,da3cb3fe-40e7-4477-913e-45c0d322d225,Low
+712,2025-03-08,4951,Aruba,Isle of Man,653c904d-a249-47ca-a7d0-02af0d266c02,High
+713,2025-03-14,13281,Bahrain,Estonia,608b56dd-9e15-47d7-b60a-5f2701785eb9,Low
+714,2025-03-13,11886,French Southern Territories,Czech Republic,67458873-99a8-4a77-b066-0d44ed957cc0,Low
+715,2025-02-09,3451,Philippines,Dominica,80c5cb3b-12b5-448b-8827-dc0bb51ca11a,Medium
+716,2025-03-11,2082,Aruba,Marshall Islands,c7bec5ca-8ead-4b5f-b11d-774068b8a2f0,High
+717,2025-01-17,3566,Germany,Algeria,bb752e34-2df5-4aeb-a7e7-5da83898c7d8,High
+718,2025-01-02,4025,Brazil,Mozambique,dca3964d-6de3-4aaf-acc0-4fe00c94163f,High
+719,2025-02-04,3526,Syrian Arab Republic,Colombia,e6b44c16-b394-480a-8328-ab2ef962e42c,Medium
+720,2025-01-25,4498,Antarctica (the territory South of 60 deg S),Palestinian Territory,bd21c300-ba93-4798-8e22-ab3a967b8e92,Low
+721,2025-03-05,995,Kuwait,Andorra,c4da446b-633a-4e03-b3ab-9df2f90ecdeb,Medium
+722,2025-02-16,1462,Italy,Nauru,c4bc0241-9c89-406a-b24c-5db015ba0766,High
+723,2025-02-18,12216,Denmark,Dominican Republic,706f2d1a-d21a-4640-b3e2-f21eea262e8c,Medium
+724,2025-02-03,967,Chad,China,126c19f5-31dc-49eb-84a2-09247b51a25c,Low
+725,2025-02-20,4283,Sri Lanka,Pitcairn Islands,4f539f01-be09-464d-aa35-9134a896a93f,High
+726,2025-01-24,4812,Moldova,Burkina Faso,9b18b66a-82d4-42a0-afa3-351eda8ab34a,Medium
+727,2025-02-09,3893,Tokelau,Cuba,11ee2cd6-7c67-4492-96fd-8f319f5121b1,Low
+728,2025-03-04,2925,Vietnam,Chad,8d3df48a-518e-45a3-af9f-7c3230f0c19b,Medium
+729,2025-02-01,3507,Algeria,Tanzania,cd169218-0cf0-4fb9-89a9-c3a4ef308f1e,High
+730,2025-02-28,1260,Serbia,Maldives,edba8047-696a-41c5-b090-20bd5cad8e0e,Medium
+731,2025-01-06,1794,French Polynesia,United States Virgin Islands,49d26b96-49ff-4166-a05e-9194155d96b8,Medium
+732,2025-02-23,899,Yemen,North Macedonia,b177e3c1-7eb2-4d30-b53a-954d95ebb297,Medium
+733,2025-02-06,2712,Saint Martin,Cook Islands,fff0234c-0900-481d-a4a4-d030111b3d1c,High
+734,2025-02-02,9685,French Southern Territories,Maldives,e9e8f4a7-a028-49ca-935e-466e4a307934,High
+735,2025-02-14,10846,Seychelles,Denmark,6ee2ebdd-d6e0-44bf-881a-d490ca76f383,High
+736,2025-02-09,2098,Palau,South Georgia and the South Sandwich Islands,089bfe7d-8ec4-46b2-995b-1492dfe1db4a,Low
+737,2025-02-06,2811,Spain,Palestinian Territory,19bc90c0-7db3-41eb-876a-507ee8fc7569,Medium
+738,2025-02-02,1999,Suriname,United States of America,fba2f718-70f8-4d5b-8906-699760968d90,Low
+739,2025-01-29,3640,French Polynesia,Honduras,b878dba5-a74a-4858-b06c-597798eccbbe,High
+740,2025-03-08,1716,Tajikistan,Barbados,1c47b4ab-630e-4f14-b874-639a93e6e099,Medium
+741,2025-03-16,136,Russian Federation,Somalia,0eb33e89-add9-4008-ae1b-79ff8b951a8f,High
+742,2025-02-05,612,Iran,French Guiana,5df63a43-621b-4c83-80b3-03a860399063,High
+743,2025-01-17,1631,Italy,Marshall Islands,0f5ea0fd-8357-4f41-b2f5-aeb4b43333f5,Medium
+744,2025-02-15,1033,Nigeria,Liberia,53acf2c7-a491-4b87-b8f3-3511e5718308,Medium
+745,2025-03-03,4423,Cambodia,Cyprus,f9a8d358-60e3-4c76-aa02-fa293b4c03d1,Medium
+746,2025-03-19,3315,Iceland,San Marino,68212c21-0b8f-4c53-b944-29d052cdc57f,Medium
+747,2025-02-01,3850,Turkmenistan,Vietnam,f45e96cd-775c-4860-b5e5-039b67174f4b,High
+748,2025-01-03,2536,Norway,Zimbabwe,874c1db6-1a51-4ec8-b66c-4302940acd0e,High
+749,2025-02-27,1197,Slovenia,Azerbaijan,14a2725d-fe66-4b2d-9bc0-c266f5563819,Medium
+750,2025-03-21,1058,Sao Tome and Principe,Georgia,2d1a99d4-7856-40d0-a64b-84b39001581d,Low
+751,2025-03-09,4284,Guam,British Indian Ocean Territory (Chagos Archipelago),24351f39-4d60-4db1-b22f-ddbd02ce35fb,Low
+752,2025-01-10,4808,Brazil,Iraq,07d713cf-5fec-4e52-a120-f118c8d0b16f,Medium
+753,2025-03-05,14785,Seychelles,French Southern Territories,36fecc67-7e83-4008-8b3d-e19f73f6ad96,Low
+754,2025-03-04,4645,Philippines,Italy,20fcb7d8-3f7b-4d54-9261-31b4bc90cb19,Low
+755,2025-01-07,12077,French Guiana,Tunisia,cd9262fa-a1c2-4b5f-9eeb-0d2cb27e6549,High
+756,2025-02-11,12441,Togo,Egypt,35d54b38-2c18-46e3-9153-7095cc312b47,Medium
+757,2025-01-15,11098,Senegal,Czech Republic,f2bbdece-e855-4dfe-91da-3280a07bb983,High
+758,2025-03-12,4240,Svalbard & Jan Mayen Islands,Tokelau,a85ba2b9-d41d-4e6e-8f08-ef04c563659f,High
+759,2025-03-05,4128,Canada,Monaco,2f0b7b7a-5b7d-4289-bc3a-3e0a58b9bc73,Medium
+760,2025-02-15,4103,Isle of Man,Svalbard & Jan Mayen Islands,adaa9276-0f22-4ea9-8db8-ab026157bb21,Low
+761,2025-01-10,1906,Syrian Arab Republic,Mongolia,64525b59-5970-4746-ba62-52e54da0f474,Low
+762,2025-03-03,4504,Tonga,Chad,0015ee86-6acd-4cc0-9a69-d7803931b52e,Medium
+763,2025-01-10,4733,Dominican Republic,Guinea-Bissau,12124c09-8518-456c-b0bc-ac993bc3b73a,Low
+764,2025-01-13,4791,Bermuda,Turkmenistan,35ac4df4-dfa4-4b6b-8b82-b3a3d7c726f5,High
+765,2025-02-11,13940,Tajikistan,Cook Islands,2344ca7d-fa1f-4569-b89d-77cf56491228,Low
+766,2025-03-15,3715,Central African Republic,Heard Island and McDonald Islands,6d2c206a-c346-4064-8ba9-0b816dc2a0f4,Medium
+767,2025-02-06,938,Nicaragua,Solomon Islands,5a3cee80-2900-4ba8-bd99-ff204c189d8d,Medium
+768,2025-02-20,364,Nauru,Faroe Islands,19bb3197-6bb5-4554-b3dc-636c54edc5b0,Low
+769,2025-03-14,3696,Kazakhstan,United Arab Emirates,053b442b-2888-4089-ba37-1e453dbbce82,Low
+770,2025-01-03,1819,Senegal,Uganda,c440f394-484d-4a5a-8bdc-ded69b8d5339,High
+771,2025-03-19,3607,Gabon,Timor-Leste,7806122e-1307-4dcb-8fe3-7664bbe0f46a,Low
+772,2025-01-08,1795,Jersey,Norfolk Island,62ec98af-840d-4309-b313-eba8b9eb51b4,High
+773,2025-03-18,2402,Uzbekistan,Falkland Islands (Malvinas),01787a63-8a60-4001-a6cd-51eee9497f5a,Medium
+774,2025-02-03,2497,Chile,Mali,32a7db6d-d0ce-45ef-b349-6378dc25d3c5,High
+775,2025-03-08,10610,Cote d'Ivoire,Mozambique,75fb76d2-3bf2-45ed-98aa-61aa045a9944,Medium
+776,2025-01-09,11771,Nicaragua,Ethiopia,e9925322-ec0a-43a9-a56f-e02bccddf50a,Low
+777,2025-03-09,1187,Angola,Mexico,5bd5f565-c017-4299-8949-b25def73cce7,Medium
+778,2025-02-25,2127,Sierra Leone,Bolivia,067c2f53-d992-4e23-8608-1f8c416e1586,High
+779,2025-01-23,2301,Venezuela,Georgia,eef19eaf-0cf5-4fe5-aa87-806fc2020a9c,Medium
+780,2025-02-27,718,Guyana,Spain,b2c139fa-58c0-4bbb-96a4-5c3d2e42cde3,Low
+781,2025-03-02,3400,Saint Pierre and Miquelon,Comoros,4f58c0e6-b145-4b95-a227-75dd8ad68cee,High
+782,2025-01-21,13224,Libyan Arab Jamahiriya,Madagascar,d8ff43b0-d775-414a-acac-82bce8cb32e6,Medium
+783,2025-02-01,9520,Comoros,Czech Republic,ffdc09a6-31e3-472e-ba70-4d4b9bf56e3a,High
+784,2025-02-16,863,Nicaragua,Saint Martin,afd50e3e-9ec1-44ba-8a5f-7d64e38ee0d7,High
+785,2025-01-25,3034,Jamaica,Costa Rica,231c3b8d-f627-4813-a638-1fd05c96ecaa,Medium
+786,2025-02-27,13019,Antigua and Barbuda,Solomon Islands,cfc3f59d-a355-455e-8232-fcc1fa0a712d,Medium
+787,2025-01-12,12144,Macao,Seychelles,0543fe3c-f813-4a94-9374-6739f603dc81,Medium
+788,2025-02-11,4583,Guam,France,e04d5e52-3d7f-4199-b1f8-5ffce8957819,Medium
+789,2025-01-27,2915,Slovakia (Slovak Republic),Estonia,a82b8bbc-a11e-49fe-8893-ab06b3fa193a,High
+790,2025-02-26,3864,Guernsey,United Kingdom,b558b312-ecc3-4c5d-8145-a032e18b4bcf,Low
+791,2025-02-11,3715,Tonga,Moldova,91610bf8-c354-4ed3-9da3-ec625cef44f4,Medium
+792,2025-01-15,10580,Guadeloupe,Cyprus,1fa8047f-2b5c-40e2-93ec-a778ba6008cc,Medium
+793,2025-03-08,1402,Mexico,Chile,f3b02ff1-e4bb-476c-99bc-e66d78cd0c78,Medium
+794,2025-01-28,2151,Ukraine,Belize,63a4baf5-ebdd-45e5-948c-4767affff479,High
+795,2025-02-06,1455,Marshall Islands,Brazil,cb066d24-cfe2-4254-a560-ebf4dd33629e,Medium
+796,2025-03-10,2018,Belize,Brunei Darussalam,18b399af-701f-47be-a59f-86f26972cdc1,High
+797,2025-01-22,879,Comoros,Comoros,2b5eb42a-8392-47a2-b929-f6fdffd81869,Low
+798,2025-03-17,1187,Lithuania,Pakistan,a8d82c2f-a9b9-41b9-8ca1-46008d79fb1e,High
+799,2025-02-11,3745,Slovenia,Swaziland,f553307f-88ca-4116-86e2-a1695e1f227d,Medium
+800,2025-03-16,1087,Papua New Guinea,Aruba,aef155a3-0861-4324-9370-97cbbc950e5c,Medium
+801,2025-02-03,680,Christmas Island,Cambodia,cc556225-ff8c-4d35-b1ba-f7410090b660,High
+802,2025-02-27,939,Netherlands Antilles,Estonia,8000f2c9-fb6d-4a8b-bb04-a7b145be22f6,Medium
+803,2025-02-13,1223,Brazil,Papua New Guinea,1bb982ff-a433-4d45-8103-ae90228e6708,Low
+804,2025-01-30,1270,Czech Republic,United States Virgin Islands,782bcd3e-18e7-4958-bc17-6a1c73377a63,Low
+805,2025-01-15,1444,El Salvador,Netherlands,34fec1bc-a433-4054-9fea-939a1046bd5e,Low
+806,2025-02-22,1340,Pitcairn Islands,Russian Federation,9b27b3a5-7a79-4fd9-91b9-74ad4508296c,Medium
+807,2025-01-30,10210,Germany,Gibraltar,26940964-ce21-4436-8dc7-145c464bc1b1,Low
+808,2025-03-14,1108,Seychelles,Austria,a8b97a1a-72a8-4ab8-8abc-d891929a2218,Medium
+809,2025-01-27,3617,Sweden,Mayotte,10b390e3-57aa-4467-a5ab-40a4470d9ff3,Low
+810,2025-03-19,2368,Christmas Island,Comoros,8c2b4be1-d945-4c1d-be1a-2341e67b161d,High
+811,2025-01-14,9719,Qatar,Georgia,72e27335-a55d-41ea-b273-c760ffaba36e,High
+812,2025-01-17,2571,Andorra,El Salvador,79e82c44-968c-402e-8082-0efd0087dcbd,High
+813,2025-03-19,1645,Singapore,Kiribati,910f4659-ab3d-4615-8784-7daebc8c039c,Low
+814,2025-01-19,2060,Guatemala,Chile,dceec1b3-d7e2-41be-a8dd-ac96cffcdcf7,Low
+815,2025-02-25,4192,Equatorial Guinea,French Southern Territories,87f742bc-828d-4855-b434-c20bf5db5d9e,High
+816,2025-01-12,12458,Montenegro,Algeria,947503d6-d620-444b-8d58-648ec536a822,Low
+817,2025-01-28,3268,Mexico,American Samoa,fc54c056-d4f7-4bf2-b885-8b4d4c341908,High
+818,2025-01-12,13358,Congo,United States Minor Outlying Islands,8f99b319-78ec-441f-8b4f-fd6b46834a68,Low
+819,2025-03-19,236,Qatar,Singapore,0dd07bc7-8e58-40c1-a946-d887cd952572,Medium
+820,2025-02-11,9826,Israel,Guinea,1b9e5688-183d-4e40-a580-6c8072d825ef,Medium
+821,2025-01-20,4250,Qatar,Sudan,4e2c001b-25cd-4bf1-8324-c6a12c03f1b9,High
+822,2025-01-29,3503,Zimbabwe,Guadeloupe,747a4a3a-373d-4fc7-8439-081d28870ac7,Low
+823,2025-03-02,4495,Malawi,Singapore,5457b1a8-88ff-455a-b407-664bba82ce79,Medium
+824,2025-03-11,784,Cyprus,Lesotho,3ce702e8-3808-4703-ae6a-fb810af8b3ce,Low
+825,2025-01-11,1372,Tanzania,Dominica,66690e49-c592-452e-9700-7d386129be79,High
+826,2025-02-19,641,Cambodia,Antarctica (the territory South of 60 deg S),3a1c329b-b414-4ec2-8a79-d90f4f6aad1e,High
+827,2025-03-05,2054,Guinea-Bissau,Malawi,f6c25d0d-92e5-4f26-b850-52cabf77a728,Medium
+828,2025-01-25,1050,Gabon,Saint Pierre and Miquelon,a8833e07-5c08-4bf8-ad1c-d387c10b6691,Low
+829,2025-01-07,2633,Gibraltar,Anguilla,06bd9698-eea6-45eb-b669-aa90d5b8f395,High
+830,2025-01-10,1538,Bosnia and Herzegovina,Kazakhstan,0bc72309-b20f-4586-96b8-bcff8604e6f1,Low
+831,2025-01-04,192,Burkina Faso,American Samoa,8c9de9b1-b8f9-4af9-857f-72de2ebed593,Medium
+832,2025-01-30,4384,Andorra,Guinea-Bissau,42fa725d-2358-49ed-96b1-c5666df4d9af,High
+833,2025-01-08,2223,Cape Verde,Heard Island and McDonald Islands,b97e1827-04bd-471e-b3a0-346deb5f4489,High
+834,2025-02-25,2301,United Kingdom,Ecuador,e7e292e8-fa69-4926-9c96-0f21dda30b8d,Low
+835,2025-02-07,2844,Palestinian Territory,Liberia,2388fdd7-20e6-4064-8b10-6b03ab7e1ab6,Low
+836,2025-03-18,2254,Gabon,United Arab Emirates,bcc505e7-0034-4f9d-a2d7-02e5041aa684,Medium
+837,2025-02-25,3828,Azerbaijan,Dominica,aa80a89f-4dc2-4282-9e3a-27b3680910b9,Medium
+838,2025-01-19,4743,Niger,Botswana,7958c7f9-526c-40e0-a7ff-13b666322631,Medium
+839,2025-01-28,942,Christmas Island,Heard Island and McDonald Islands,5ed8cfc2-d78a-4c1b-b516-a6c1ff8ba1ff,Low
+840,2025-01-02,1971,Dominican Republic,Guernsey,55688a42-9b16-488a-812b-95facf45ddc6,Low
+841,2025-01-05,2103,Reunion,Holy See (Vatican City State),949d3f3c-de2a-46ed-9a79-17eaf8e37e85,Medium
+842,2025-01-04,10966,Grenada,Fiji,452e317a-75b1-4739-87a4-31bcd9ba0161,Low
+843,2025-02-18,4629,United States of America,Niger,941c15a2-73b2-479f-923e-9dec7ac28103,Medium
+844,2025-02-19,12909,Australia,Saint Lucia,4107e43f-21ed-4e00-8be7-295acbd77d6d,Medium
+845,2025-03-12,2322,Dominican Republic,Venezuela,76ac7db1-fe1d-41e6-8885-15e816423ded,Low
+846,2025-03-02,4212,Cuba,Rwanda,3bfe019b-ffbf-490a-a446-9c80357ab7dd,High
+847,2025-01-19,476,Tajikistan,Armenia,e8e589c2-70ce-493d-93cb-8966c1f7d400,Medium
+848,2025-02-08,2412,Montserrat,Turks and Caicos Islands,797e12f3-668c-4734-acf3-6e3c557b9019,High
+849,2025-03-14,3841,Central African Republic,Samoa,0b4a153f-643b-4101-996d-7d8afc041f3b,Medium
+850,2025-02-28,4718,Monaco,Zimbabwe,f4b2d47a-e879-4edf-bf94-5c8b365bae90,Low
+851,2025-01-21,3900,Rwanda,Korea,26c52f15-61db-42b3-9248-8b20b5e2c926,Medium
+852,2025-01-21,1700,Tanzania,Malawi,f8ba32b4-b49a-42df-a7fb-e8ece0cf037c,Low
+853,2025-03-02,9552,Netherlands Antilles,Libyan Arab Jamahiriya,9d688e7e-9128-4ac1-9c3f-bfbda8c44649,Low
+854,2025-01-20,2008,Andorra,Saint Kitts and Nevis,5440b786-d2b7-43ae-9ff0-9a9aebe3ddce,High
+855,2025-01-11,178,Jamaica,Canada,0f7a02e3-86af-4290-b0a9-efee9e9672bc,High
+856,2025-03-15,3182,French Polynesia,Macao,82d78f50-0d9b-4152-abdc-7e02fff259ea,High
+857,2025-01-27,2051,Switzerland,Poland,e87be311-f6c5-4280-992f-cb844df1e6ee,Low
+858,2025-02-05,1266,Czech Republic,Togo,e1031bf3-551f-4cd4-9810-82fde28a60c3,Low
+859,2025-02-13,4357,Swaziland,Saint Barthelemy,92e82e33-052f-4808-9030-1672c4fcb803,Medium
+860,2025-01-16,3855,Botswana,Saint Martin,4faaddb9-7d8f-4f82-b82e-5dbb0e60ca0d,High
+861,2025-01-30,14720,Poland,Spain,bab51144-f7d8-47e4-8552-fd947c99b60a,Low
+862,2025-01-09,4948,Peru,Peru,e9587b77-b8c3-49d1-ae01-c6af5c3f8dac,High
+863,2025-02-28,1170,Malawi,Vanuatu,a758ba67-c586-4f0d-a895-8d5a0b67c43a,Medium
+864,2025-03-19,3319,Malaysia,Switzerland,84cd8dd5-9a10-4a07-b628-71a1f4e9183c,Medium
+865,2025-03-08,10111,Guinea,Korea,6d148818-1aea-4fab-9839-ff18ee8941ba,Low
+866,2025-01-03,4889,Iraq,Ghana,77a84fb1-8811-4125-a0ab-e732e3bd22bf,Low
+867,2025-02-10,3782,Mali,India,f291e902-7e73-4b77-852f-6e1136d87f10,Low
+868,2025-02-24,12435,Bahrain,Norway,d836b924-328c-4437-bf07-42d9954dc0a7,Low
+869,2025-03-08,3802,Kuwait,Singapore,afc8b399-e588-4c9c-91d5-99db47a356b8,Low
+870,2025-03-08,10791,Turkey,Iraq,9883aa18-93eb-4728-80ac-5296c614660b,Medium
+871,2025-02-15,11261,Mexico,Antarctica (the territory South of 60 deg S),775b145f-4c45-4c6c-8f8e-7989eb959574,Medium
+872,2025-01-27,1315,French Guiana,Liechtenstein,b2a87b2f-ff9d-484a-8256-5360733d5877,Medium
+873,2025-03-18,3346,Heard Island and McDonald Islands,Gambia,b7a017ba-d91b-4cf2-9c52-571e6df9d8c4,Medium
+874,2025-03-20,2231,Sri Lanka,Bolivia,696daef5-6fd6-46af-9ebf-53694f12b287,Medium
+875,2025-03-17,3804,Australia,Hungary,bd09fb1b-e7d9-4f6f-8d8e-4cf9184d67a7,Low
+876,2025-01-25,875,Ireland,United Kingdom,5509b9c6-b50d-4434-b3ee-5b0d09975451,Low
+877,2025-01-14,1094,Australia,Bosnia and Herzegovina,9aa9dbed-48c8-4d08-bbfe-62bb59a4740d,Low
+878,2025-02-07,11123,Kuwait,Sudan,feb80960-7086-44d5-a04f-70853df51631,Medium
+879,2025-02-23,788,Niue,Libyan Arab Jamahiriya,0faa5200-b8c8-4bf7-88e0-3d0c8a3be0b0,Low
+880,2025-02-26,278,Bulgaria,Nepal,37be8e70-499c-49d0-a785-e570a5d1523a,High
+881,2025-03-06,3732,Sierra Leone,Myanmar,1a52b549-32bf-4c15-9516-86d84f301ec2,Medium
+882,2025-01-01,9849,Saint Martin,Guinea,aeed4c72-6a5f-4a19-9c48-a861bd75ef27,Low
+883,2025-03-19,1476,North Macedonia,Senegal,142d204a-2d96-484f-894d-49550c3fb351,High
+884,2025-02-10,3335,Somalia,Syrian Arab Republic,5b934e08-9447-429d-9f6e-8d48a62dad78,High
+885,2025-03-09,3595,Czech Republic,Croatia,f721b38a-18d7-4342-b258-68a2815b9ed0,Low
+886,2025-03-02,2352,Slovakia (Slovak Republic),Isle of Man,a29e2db0-fe57-4904-9890-9457676743ec,Low
+887,2025-01-31,383,Bouvet Island (Bouvetoya),Pitcairn Islands,ba6aaaf9-641a-4af6-ae90-48d1b28ea9c6,Low
+888,2025-01-03,2517,India,Sierra Leone,32c21d47-c41b-4a8f-8a68-aa4fb01e85f8,High
+889,2025-01-26,4024,Greenland,Andorra,80acc232-42d7-468c-91e2-1017dfa9fa9f,Medium
+890,2025-03-19,1224,Sudan,Grenada,36e06a81-2a07-4d8c-abb0-c120284a2214,High
+891,2025-01-24,14667,Iran,Cambodia,c334109d-cb9f-439a-a0d7-156ea67fa9aa,High
+892,2025-01-29,259,Andorra,Guernsey,340e32e5-f1d7-4a59-81c4-4d6c42ee7f72,Medium
+893,2025-02-23,4029,Bolivia,Greece,493ac05a-7cdb-487b-ac74-c061a16a66a7,Medium
+894,2025-01-15,4733,Togo,Senegal,78a9c450-a499-4f55-9430-f1f0f672d50b,Medium
+895,2025-02-16,1573,Bolivia,Denmark,34f7f5df-4093-49ce-9e27-acba3398a5e9,Low
+896,2025-02-21,340,Reunion,New Caledonia,84b2c0b8-e4cb-4178-9158-f794eb84f9f7,Medium
+897,2025-01-26,4437,Djibouti,Panama,bc2d3758-62ad-4d27-a7ff-d3b820382805,Low
+898,2025-02-01,1407,Estonia,Turkey,b2361834-ce7d-418c-9b06-3f48a01c5bdc,Low
+899,2025-03-15,13871,Lesotho,Tuvalu,5560ab0a-81e3-4e01-a0c4-82125ab8d585,High
+900,2025-03-06,558,Congo,Luxembourg,ea996774-5e6b-4ac5-b110-67dd6de03bec,Medium
+901,2025-01-21,3006,Gibraltar,Luxembourg,c375d827-a82d-4c7f-8483-0de7223e1ac4,High
+902,2025-03-02,12439,Madagascar,Singapore,8c19643c-b3be-428c-8ebc-92901d131411,Low
+903,2025-03-16,2980,Moldova,Singapore,cf4f7b0d-36dd-420e-a267-e0a5fec54603,High
+904,2025-01-08,1642,Guinea,Hungary,e94e4b73-9df3-4085-b34f-b44174505337,Low
+905,2025-01-22,4117,Congo,South Georgia and the South Sandwich Islands,66cf3013-c98c-4cda-8b28-2cce743debd3,Low
+906,2025-02-12,1892,Jamaica,Greenland,283a41e8-bf79-4da0-8536-664d2aa584c2,Low
+907,2025-01-23,2817,Australia,Hong Kong,dd9ffe5e-fd54-4da3-ae59-f14006c4ab1c,Low
+908,2025-01-28,10953,Samoa,Netherlands,cb9df99b-430f-4ab8-8649-6e1524b7b83e,Medium
+909,2025-03-06,587,Cook Islands,Guernsey,9a0c59e6-b1f0-4d2f-8f5d-c957ac078f23,High
+910,2025-01-30,10408,Bermuda,Belize,7785f883-6319-48f7-a8c7-f5d6231876d1,Medium
+911,2025-02-19,694,Korea,Samoa,dc163185-765c-4646-a71c-78a658354c5e,High
+912,2025-02-10,3340,Mexico,Senegal,0d4e5b87-478d-496b-8936-861d8747dddc,Medium
+913,2025-02-13,10617,Yemen,Grenada,7157891b-799e-4da8-bb4a-ce83db20493d,High
+914,2025-02-16,14736,Saint Vincent and the Grenadines,Latvia,b1427a1c-3936-42ae-9bda-c08ae8a5eaf1,High
+915,2025-03-17,2699,Nauru,Morocco,d3d4e76d-52b3-4c15-ab02-e32a6118e7e9,High
+916,2025-02-01,3023,Pitcairn Islands,Bermuda,19ea2a70-eb1f-4802-995c-cace519c2d5d,Low
+917,2025-01-13,3199,Monaco,Turkey,dfd98c64-e000-441f-83c0-2c50a43db12d,Medium
+918,2025-03-06,1143,Trinidad and Tobago,Ukraine,1539c172-d619-468c-9ce7-7a80d6e70a91,High
+919,2025-02-20,12707,Bangladesh,Zimbabwe,334be898-0ba0-42b7-b201-6c5819b71e85,High
+920,2025-03-21,365,Bulgaria,Cocos (Keeling) Islands,50eb6835-16e1-4308-9888-fe0c9e1f68e6,High
+921,2025-03-03,1909,Equatorial Guinea,Taiwan,1e020b43-27e0-48f8-b048-1d62351f04e3,Medium
+922,2025-01-04,1252,Grenada,Kenya,3332fcbd-d75e-4a30-b0c8-0cccb8085be9,Low
+923,2025-02-24,2941,Fiji,Bouvet Island (Bouvetoya),bf5bfa57-1fe6-4cc4-953d-e18aca111036,Low
+924,2025-02-01,2850,Antarctica (the territory South of 60 deg S),Pakistan,39f98dc8-9f95-42bd-ab01-560317bf9c4e,Low
+925,2025-02-05,2144,Mayotte,Nauru,e46c3943-67b6-4624-a9ad-a37baf7d7798,Low
+926,2025-02-06,110,Belize,Kuwait,03f1abcf-8b9d-4c91-86ca-cfaed244699b,High
+927,2025-02-03,10862,Bulgaria,Seychelles,d2c7a566-78a1-4357-93fd-4abe0e2ba7c8,Medium
+928,2025-01-04,3202,Barbados,Mauritania,f78b5963-2ac1-4208-ad4b-fa994e96d713,Low
+929,2025-01-26,4027,United States Minor Outlying Islands,Mozambique,d1ac0df3-471c-4a7c-ac20-3502f642b92e,High
+930,2025-02-26,1947,Germany,Kiribati,654cc044-2715-4db6-bd23-b3e57d7adec7,Low
+931,2025-01-19,2515,Japan,Latvia,86693c25-2865-4f67-821a-bc719cc1488a,Low
+932,2025-03-14,707,Holy See (Vatican City State),French Southern Territories,b3a81863-cbd1-401c-876f-f497fd546162,Medium
+933,2025-02-09,1418,Tanzania,Libyan Arab Jamahiriya,2fa15426-d0cc-4668-85df-d31e2cc8ab84,Low
+934,2025-01-09,14366,Iceland,Thailand,b602c18b-de5a-4ca8-bb08-7dab2b7705d3,Medium
+935,2025-02-13,13033,Swaziland,Ecuador,27343961-e6b6-441b-91f7-e761a2340f42,Low
+936,2025-01-31,3656,Bahamas,Madagascar,c1d08b4a-91f1-4954-8c51-ac6b2804a9e7,Medium
+937,2025-02-09,1783,Isle of Man,Northern Mariana Islands,bb8c141c-ac49-4b45-8fc3-514a2e3a713e,High
+938,2025-02-18,4524,Liechtenstein,Sao Tome and Principe,3ba4a558-b4bb-4f32-b5fe-3fb3806dc675,Medium
+939,2025-02-08,2045,Sweden,Cape Verde,491b23af-1f8e-4da4-9218-134666f06abd,High
+940,2025-03-06,4602,Cape Verde,Netherlands,35c7499b-ab53-4ed1-9153-d0954eb23bf5,Medium
+941,2025-03-06,131,Namibia,Bolivia,f241df60-34e9-4bc8-980b-6ce38134b938,High
+942,2025-01-31,4034,Oman,Nigeria,63cde1a0-8015-4767-9ad5-7069191e2303,Low
+943,2025-02-07,1499,Zambia,Colombia,f7de3f10-bb8f-4084-b7b6-19d148bc6232,Low
+944,2025-01-27,3979,Tokelau,Austria,dfabb703-d004-4b49-b511-2fb2cc8977fd,Medium
+945,2025-01-03,13506,Mongolia,Afghanistan,54b3b489-ef5c-48bb-970f-6948aba97921,Medium
+946,2025-01-14,846,Bahamas,Mayotte,546629e8-7dfa-4f00-a630-6c0c7f27aef5,Low
+947,2025-03-05,3139,Armenia,Hungary,a395cc4a-c53b-4a51-bc99-8210506a78dc,Medium
+948,2025-01-28,465,Denmark,Italy,45ceab2d-49e4-4af2-a153-2953b20a3450,Medium
+949,2025-03-18,1953,Qatar,Romania,11ef866b-e767-4f98-a627-1a1f3449ad91,Low
+950,2025-01-12,892,Jersey,Bahamas,56ad3ce4-dd8d-4f5f-9333-385da44ceeae,High
+951,2025-03-02,3491,Brunei Darussalam,Jamaica,46141afc-1a39-4e75-a366-af75afc75e66,Low
+952,2025-02-19,3271,Gambia,Tokelau,80d2fa05-4fe5-4c5c-b586-bc9292bc6aba,High
+953,2025-03-14,14191,Venezuela,Saint Lucia,8998d5ee-00d4-4d37-9695-a4860baccb59,Medium
+954,2025-02-20,2548,United States Virgin Islands,Central African Republic,feda0684-bfce-4ba3-8baf-cf80bbaeffd5,High
+955,2025-01-25,384,Tunisia,Cameroon,5d6e1880-2c1b-49d7-bd01-607bd474c5dd,High
+956,2025-03-19,4781,Niger,Holy See (Vatican City State),64a660ea-fc63-429c-ad91-5c4413e19ad4,Medium
+957,2025-01-22,10869,Equatorial Guinea,Cambodia,e9a53ac7-a80e-45b7-801e-a35f3b01b53f,Low
+958,2025-02-13,1133,Ghana,Italy,33770c2d-9629-486d-852d-b968403e43d8,High
+959,2025-03-14,11154,Iraq,Uruguay,5db03c3e-9dbb-4bd7-a7d7-433234904b6a,High
+960,2025-01-15,1311,Algeria,Guadeloupe,53b34970-652c-4fa0-8795-2906f097f35f,High
+961,2025-01-13,648,Liechtenstein,Liberia,2c46a38c-60a6-43c9-a492-772bb5584628,Medium
+962,2025-02-13,12171,Norfolk Island,Gambia,21e4243c-b8a6-4f13-9c96-23a1fa259389,High
+963,2025-02-09,3853,Uganda,Brazil,ed31b9e2-b2b6-4b5a-ad5c-68fbe99748b9,High
+964,2025-01-20,4913,Syrian Arab Republic,Sao Tome and Principe,4015d1ca-bdef-42e2-b383-122ca26565c4,Low
+965,2025-02-22,3495,Sri Lanka,Yemen,f29f862a-ce71-4306-a9f8-01eefb65981f,High
+966,2025-01-17,10320,Andorra,Mauritius,99410de4-0b4c-4793-a4d6-280e149678b1,High
+967,2025-01-24,11843,Netherlands Antilles,French Polynesia,2dfa4ee5-c325-4886-9323-632f28a44032,Medium
+968,2025-01-19,3466,Tanzania,Mauritius,4dcda35e-baae-4add-bb98-319b1a43c4e5,Medium
+969,2025-02-09,4786,Solomon Islands,Zimbabwe,9c1d6786-1eee-4a05-9046-0be3cf5227e9,Low
+970,2025-03-11,2356,Jordan,Liberia,b63d66e7-d309-40f8-aa1b-377c15ac54a8,High
+971,2025-03-06,3390,Ecuador,Bahrain,6132c2df-8301-464c-953e-cf65cf739724,Medium
+972,2025-01-15,2046,Moldova,Honduras,e02256f8-bb9a-4065-a76c-c45d7ab5908f,Medium
+973,2025-02-21,3151,Turkmenistan,Qatar,791f1da8-edb8-4b40-9f4d-6d7942267168,Medium
+974,2025-03-03,11796,Tunisia,Guam,29ba52f9-01d8-4b79-92a4-bc3f2a1ae0ad,High
+975,2025-01-26,904,Northern Mariana Islands,Belgium,493a408b-0684-4ca2-96e3-2d4798d4c33e,High
+976,2025-02-24,3729,Luxembourg,Gabon,1ae14597-b632-4eae-898b-25500a8da2e9,Medium
+977,2025-02-14,831,Yemen,Antigua and Barbuda,96ccce2f-fd45-4379-9142-29e0f8683a5c,Medium
+978,2025-02-10,13731,Angola,Heard Island and McDonald Islands,a9c4941f-5d58-4673-bd7f-2ed8229bb77e,Low
+979,2025-02-03,4321,Vietnam,Burkina Faso,def8486c-9164-4ce5-9590-6a13d6367d3c,High
+980,2025-01-03,4251,Chad,Puerto Rico,18ac056e-08f6-4ca2-8813-16af9fc7ffe5,High
+981,2025-02-22,4758,Nepal,Korea,b43b83ee-581a-4abd-8a64-5c84c87869bc,Low
+982,2025-02-02,572,Pakistan,Pitcairn Islands,555a9b93-d67c-473d-9e0f-fd9a79c0fccd,Low
+983,2025-02-11,3052,Korea,Maldives,38fd5578-7bbd-4698-810d-89852bcfd9ac,Medium
+984,2025-03-08,4237,United Arab Emirates,Romania,9d013a5a-d67b-4e71-8960-a3bac6d6ef8e,Low
+985,2025-01-01,350,Grenada,Honduras,2aa9073a-bd75-406a-8aa1-8f65f0f50817,High
+986,2025-01-23,10954,Honduras,Trinidad and Tobago,ad61d323-5c85-4aa7-89fe-7e35168a279a,Medium
+987,2025-02-04,4907,Chile,Qatar,762b57a6-b4ad-434d-885e-158ee2726d9b,Low
+988,2025-01-12,2218,Singapore,Colombia,8b3c7642-9c2c-48ec-9f85-616b60bcad1f,Medium
+989,2025-01-19,10834,Senegal,Serbia,d566f7ce-6508-4074-9b62-19d414d0425e,Low
+990,2025-01-28,1913,Brunei Darussalam,Niger,3333da6c-a6a6-45ea-8be4-17f436f5bce8,Low
+991,2025-01-19,2304,Macao,Botswana,7128fb17-3c0f-4d14-bba0-48999d59273f,Low
+992,2025-02-13,13383,Egypt,Wallis and Futuna,f7cdb4d5-10ed-4060-93ed-72326d21c49c,High
+993,2025-01-07,14424,Vanuatu,Panama,35d31d09-6659-46c1-8e2d-d386dfe314ab,Low
+994,2025-03-07,14483,Cocos (Keeling) Islands,Panama,dd90b512-bf07-4c52-afb1-220a3e2eaf2b,Medium
+995,2025-03-14,12971,Cote d'Ivoire,Israel,968c77e7-aeb1-4b34-9601-49b139819a65,Medium
+996,2025-01-24,3860,United States Virgin Islands,Togo,99bec500-05ba-4cce-ad8d-46a4990c7198,Medium
+997,2025-01-19,4365,Singapore,French Guiana,4a0ea967-01ab-4f31-a8dc-7bd35d4270d1,Low
+998,2025-01-01,13690,Ethiopia,Senegal,a9f885d1-8bc0-4234-a595-17242943bce2,Medium
+999,2025-03-03,4699,Malawi,Honduras,9827fd62-312a-4b33-ab42-ce81abec093c,Medium
+1000,2025-03-04,2545,Croatia,Rwanda,47ea5ef7-3696-4184-977f-3ec7ba5e8482,Medium

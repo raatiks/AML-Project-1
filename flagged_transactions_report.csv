@@ -1,0 +1,184 @@
+Transaction_ID,Date,Amount,Origin_Country,Destination_Country,Customer_ID,Customer_Risk_Rating,Flag,Structuring_Flag,Round_Amount_Flag
+609,2025-02-21,10962,Paraguay,Mali,034a1123-2ce6-48e5-a8ff-03057f7f1ea7,Medium,Threshold Violation,False,False
+787,2025-01-12,12144,Macao,Seychelles,0543fe3c-f813-4a94-9374-6739f603dc81,Medium,Threshold Violation,False,False
+256,2025-01-22,13557,Central African Republic,Brunei Darussalam,086e9930-b09b-4daa-83d9-57be579e77fe,Low,Threshold Violation,False,False
+318,2025-01-20,14915,Montserrat,Colombia,0ba17769-93f9-4f8c-8a40-9402c4bf27ac,Low,Threshold Violation,False,False
+442,2025-01-13,13788,Heard Island and McDonald Islands,Gibraltar,0d5bcae5-f350-477b-8a4a-7bed91a28905,Low,Threshold Violation,False,False
+476,2025-02-26,11257,Tokelau,Saint Kitts and Nevis,11d9b2a6-e165-4ce5-a3f7-9945786c3ef6,Medium,Threshold Violation,False,False
+109,2025-02-26,12212,Central African Republic,Cocos (Keeling) Islands,122a1f3c-ad23-49cb-9d19-543354319756,Low,Threshold Violation,False,False
+344,2025-02-12,11337,Tajikistan,Antarctica (the territory South of 60 deg S),17687b6d-d3da-4a0a-9077-38a6514fa1aa,Medium,Threshold Violation,False,False
+664,2025-01-19,11567,Turkmenistan,Benin,17f84689-5d37-41f2-b456-5215f89b2c95,Medium,Threshold Violation,False,False
+881,2025-03-06,3732,Sierra Leone,Myanmar,1a52b549-32bf-4c15-9516-86d84f301ec2,Medium,High-Risk Jurisdiction,False,False
+603,2025-01-30,13933,Sierra Leone,Micronesia,1a63288e-f0d5-40cf-a89b-98f8eea69d1f,Low,Threshold Violation,False,False
+591,2025-01-09,14940,Korea,Sierra Leone,1ba37d93-80d4-43b3-8b73-207c0fc4b3d7,Low,Threshold Violation,False,False
+387,2025-01-18,12520,Paraguay,Macao,1bb90843-5d6e-4508-96dc-a42a122c7989,Low,Threshold Violation,False,False
+182,2025-01-23,11790,Falkland Islands (Malvinas),Tanzania,1c6a4eb4-d011-4554-94cd-16211a638a3e,High,Threshold Violation,False,False
+66,2025-01-07,11672,Honduras,Poland,1f61d218-1396-4cac-9a04-1bbe5a3d4736,Medium,Threshold Violation,False,False
+792,2025-01-15,10580,Guadeloupe,Cyprus,1fa8047f-2b5c-40e2-93ec-a778ba6008cc,Medium,Threshold Violation,False,False
+215,2025-03-15,11412,Uruguay,Norway,21414a73-76c2-438f-8e8d-2caaf680eb20,High,Threshold Violation,False,False
+962,2025-02-13,12171,Norfolk Island,Gambia,21e4243c-b8a6-4f13-9c96-23a1fa259389,High,Threshold Violation,False,False
+765,2025-02-11,13940,Tajikistan,Cook Islands,2344ca7d-fa1f-4569-b89d-77cf56491228,Low,Threshold Violation,False,False
+424,2025-03-01,13180,Sri Lanka,Angola,2352e4d0-f8ce-4817-bd35-071b2014dc71,Low,Threshold Violation,False,False
+807,2025-01-30,10210,Germany,Gibraltar,26940964-ce21-4436-8dc7-145c464bc1b1,Low,Threshold Violation,False,False
+935,2025-02-13,13033,Swaziland,Ecuador,27343961-e6b6-441b-91f7-e761a2340f42,Low,Threshold Violation,False,False
+974,2025-03-03,11796,Tunisia,Guam,29ba52f9-01d8-4b79-92a4-bc3f2a1ae0ad,High,Threshold Violation,False,False
+291,2025-01-16,13447,Holy See (Vatican City State),Venezuela,2b0d7ee6-52c7-4fc2-9626-ed536be2f217,Medium,Threshold Violation,False,False
+218,2025-01-06,11676,Kenya,Bosnia and Herzegovina,2c2be961-2dd5-4621-b5de-58c9d50686c3,Low,Threshold Violation,False,False
+495,2025-01-20,13750,Monaco,China,2cabfc6f-2dd9-4277-8524-08633f49e7da,Low,Threshold Violation,False,False
+578,2025-01-25,14504,Sri Lanka,Guinea-Bissau,2d810528-73ec-4838-9895-bc9d7e60899b,Medium,Threshold Violation,False,False
+967,2025-01-24,11843,Netherlands Antilles,French Polynesia,2dfa4ee5-c325-4886-9323-632f28a44032,Medium,Threshold Violation,False,False
+207,2025-03-17,13190,Tuvalu,Oman,3130e20d-c9b1-4a54-8465-c8435e6cfcd3,Medium,Threshold Violation,False,False
+545,2025-01-08,14509,Turkey,Argentina,3239e817-bcd0-45e0-b5c9-b3488d2d4129,High,Threshold Violation,False,False
+919,2025-02-20,12707,Bangladesh,Zimbabwe,334be898-0ba0-42b7-b201-6c5819b71e85,High,Threshold Violation,False,False
+993,2025-01-07,14424,Vanuatu,Panama,35d31d09-6659-46c1-8e2d-d386dfe314ab,Low,Threshold Violation,False,False
+756,2025-02-11,12441,Togo,Egypt,35d54b38-2c18-46e3-9153-7095cc312b47,Medium,Threshold Violation,False,False
+710,2025-02-28,11796,France,Estonia,36129e61-698e-4864-9264-8cf56b9057ec,Medium,Threshold Violation,False,False
+753,2025-03-05,14785,Seychelles,French Southern Territories,36fecc67-7e83-4008-8b3d-e19f73f6ad96,Low,Threshold Violation,False,False
+514,2025-03-12,11533,New Zealand,Bolivia,37312a2c-6636-4667-a1ed-3334cb4fcaa5,Low,Threshold Violation,False,False
+661,2025-01-29,13614,Gibraltar,Saint Helena,39aab7ad-c268-4b10-ad57-13ff70486d49,High,Threshold Violation,False,False
+310,2025-02-18,11054,Hungary,Bahamas,3b508479-e5e4-4f07-a439-7710bcf3668e,Medium,Threshold Violation,False,False
+394,2025-01-07,13086,Cayman Islands,Papua New Guinea,3b894b62-3680-47bf-90cd-5e68fb70f2d8,High,Threshold Violation,False,False
+640,2025-02-19,12749,Puerto Rico,Tunisia,3c0e5aef-eab2-4441-be97-2754e5ab0ff6,High,Threshold Violation,False,False
+494,2025-02-15,12143,Jersey,Taiwan,3c2cee9c-5781-41ce-a0d2-857dce873590,Low,Threshold Violation,False,False
+336,2025-01-07,12566,Taiwan,Isle of Man,3cca8100-2d55-4bc5-8c62-0e525b584ea2,High,Threshold Violation,False,False
+246,2025-01-28,10618,United Arab Emirates,Suriname,3f53bef2-02c9-4b91-9c2d-4612f256a818,Medium,Threshold Violation,False,False
+844,2025-02-19,12909,Australia,Saint Lucia,4107e43f-21ed-4e00-8be7-295acbd77d6d,Medium,Threshold Violation,False,False
+377,2025-02-15,11088,British Virgin Islands,Finland,45170309-2967-4b3d-ac1d-21532bba9ce8,Medium,Threshold Violation,False,False
+842,2025-01-04,10966,Grenada,Fiji,452e317a-75b1-4739-87a4-31bcd9ba0161,Low,Threshold Violation,False,False
+446,2025-01-29,2177,Zimbabwe,Myanmar,4675b7b3-a53f-40c6-bdfa-a9b488b794c2,Low,High-Risk Jurisdiction,False,False
+620,2025-03-19,13627,Uganda,Thailand,475dea3a-37bd-44e5-9ce1-234ece74a556,Low,Threshold Violation,False,False
+15,2025-03-20,11407,Monaco,Bouvet Island (Bouvetoya),47e979bf-8f67-4d7b-a000-182c4c168896,Medium,Threshold Violation,False,False
+696,2025-02-19,14083,Cyprus,San Marino,48ba3948-e755-4974-904b-2e482635b716,Low,Threshold Violation,False,False
+361,2025-02-21,12737,Jamaica,Saint Vincent and the Grenadines,48d1ecc0-06b2-4fe3-8e18-2904a362190b,Low,Threshold Violation,False,False
+87,2025-03-14,10445,Austria,Netherlands Antilles,52d5b735-a082-4d3d-992e-fb9624c3ddb4,High,Threshold Violation,False,False
+945,2025-01-03,13506,Mongolia,Afghanistan,54b3b489-ef5c-48bb-970f-6948aba97921,Medium,Threshold Violation,False,False
+899,2025-03-15,13871,Lesotho,Tuvalu,5560ab0a-81e3-4e01-a0c4-82125ab8d585,High,Threshold Violation,False,False
+204,2025-01-15,14110,Gibraltar,Malta,58bb4986-77ce-4e18-9a47-f8a448e4646e,Low,Threshold Violation,False,False
+194,2025-01-17,14329,Indonesia,Seychelles,5ab49328-6740-46d3-8a59-3a2c3b9ad6c6,High,Threshold Violation,False,False
+308,2025-02-03,10313,Sudan,Northern Mariana Islands,5b8fb1a9-41b6-44bc-92d1-d0b4d3763096,Medium,Threshold Violation,False,False
+283,2025-02-11,14473,Uzbekistan,Indonesia,5be14206-bcba-4ded-9b06-54c2853af4f5,Low,Threshold Violation,False,False
+199,2025-03-11,10340,Azerbaijan,Montserrat,5cf342b1-8d46-4479-be48-8ecb9209d206,High,Threshold Violation,False,False
+959,2025-03-14,11154,Iraq,Uruguay,5db03c3e-9dbb-4bd7-a7d7-433234904b6a,High,Threshold Violation,False,False
+366,2025-02-04,14077,Sierra Leone,China,6039f2bb-d648-472f-bc6a-30faeb1b542f,Medium,Threshold Violation,False,False
+713,2025-03-14,13281,Bahrain,Estonia,608b56dd-9e15-47d7-b60a-5f2701785eb9,Low,Threshold Violation,False,False
+450,2025-01-31,13306,Reunion,Greenland,61200dfa-d193-4770-b050-31d621452a69,Medium,Threshold Violation,False,False
+639,2025-03-21,13423,Mauritania,Spain,62c294b8-cc50-4ac9-8ca4-e5d106ea2cd0,High,Threshold Violation,False,False
+593,2025-03-02,10139,Georgia,Norway,63a898e4-71cb-4c79-83cd-2312ddb92bdb,Low,Threshold Violation,False,False
+541,2025-02-05,10710,Belarus,Tajikistan,64bb7fdc-63f5-4c0b-b3b0-5531b772d684,Low,Threshold Violation,False,False
+701,2025-02-14,11561,New Caledonia,Malawi,656d324e-a962-4137-846d-4ff7a0a79eae,High,Threshold Violation,False,False
+714,2025-03-13,11886,French Southern Territories,Czech Republic,67458873-99a8-4a77-b066-0d44ed957cc0,Low,Threshold Violation,False,False
+390,2025-01-21,13184,Samoa,Solomon Islands,6a8cd425-162a-4dad-ba89-3d160ebbc60c,High,Threshold Violation,False,False
+429,2025-01-01,10311,Luxembourg,Maldives,6c7aa408-af8f-4507-98f8-014b99153ef3,High,Threshold Violation,False,False
+865,2025-03-08,10111,Guinea,Korea,6d148818-1aea-4fab-9839-ff18ee8941ba,Low,Threshold Violation,False,False
+505,2025-01-21,11506,Western Sahara,Northern Mariana Islands,6e2f4d2c-3dcb-4b6e-862a-dd24655739a1,High,Threshold Violation,False,False
+735,2025-02-14,10846,Seychelles,Denmark,6ee2ebdd-d6e0-44bf-881a-d490ca76f383,High,Threshold Violation,False,False
+47,2025-02-27,13088,Cape Verde,Chad,6f52e25c-9b2f-4e37-98a5-e11875318612,Medium,Threshold Violation,False,False
+723,2025-02-18,12216,Denmark,Dominican Republic,706f2d1a-d21a-4640-b3e2-f21eea262e8c,Medium,Threshold Violation,False,False
+216,2025-03-02,14916,Lithuania,Bulgaria,7144cfd8-cceb-447d-9b18-048f6e40325f,Low,Threshold Violation,False,False
+913,2025-02-13,10617,Yemen,Grenada,7157891b-799e-4da8-bb4a-ce83db20493d,High,Threshold Violation,False,False
+557,2025-01-25,12337,Central African Republic,Fiji,723406f5-e456-42bf-bd2b-60db75476d1b,High,Threshold Violation,False,False
+409,2025-02-18,11923,Antarctica (the territory South of 60 deg S),Hong Kong,72f4b724-38a2-4d0f-9dab-c44d939ad64c,Low,Threshold Violation,False,False
+128,2025-01-17,11340,Niue,Marshall Islands,74e326f8-943f-457a-9375-4c2651fb98f5,Low,Threshold Violation,False,False
+775,2025-03-08,10610,Cote d'Ivoire,Mozambique,75fb76d2-3bf2-45ed-98aa-61aa045a9944,Medium,Threshold Violation,False,False
+871,2025-02-15,11261,Mexico,Antarctica (the territory South of 60 deg S),775b145f-4c45-4c6c-8f8e-7989eb959574,Medium,Threshold Violation,False,False
+910,2025-01-30,10408,Bermuda,Belize,7785f883-6319-48f7-a8c7-f5d6231876d1,Medium,Threshold Violation,False,False
+77,2025-01-05,12091,Panama,British Virgin Islands,7dca2a37-d75f-4891-9ef9-579648005a72,Low,Threshold Violation,False,False
+413,2025-03-10,14617,Cape Verde,Kuwait,7e61798b-5eec-4238-a85d-b8a7108f2769,Low,Threshold Violation,False,False
+165,2025-01-21,10841,Norway,Dominica,85fcd07b-9bee-4291-babf-00d26fdd90db,Low,Threshold Violation,False,False
+522,2025-02-13,10597,Sierra Leone,Saudi Arabia,880af4fa-24ec-4402-8096-9edd9f7f86c4,High,Threshold Violation,False,False
+467,2025-01-27,10810,Burundi,Malta,88d6ed28-5c3e-4207-8aa2-fa30b3ed2ad8,Low,Threshold Violation,False,False
+262,2025-01-28,12191,New Caledonia,Heard Island and McDonald Islands,896a5461-2564-44bc-8fc1-b08519a67632,High,Threshold Violation,False,False
+953,2025-03-14,14191,Venezuela,Saint Lucia,8998d5ee-00d4-4d37-9695-a4860baccb59,Medium,Threshold Violation,False,False
+606,2025-03-03,12567,Kuwait,Aruba,8a73b818-879d-4f66-9758-ff3c9095084d,Medium,Threshold Violation,False,False
+902,2025-03-02,12439,Madagascar,Singapore,8c19643c-b3be-428c-8ebc-92901d131411,Low,Threshold Violation,False,False
+818,2025-01-12,13358,Congo,United States Minor Outlying Islands,8f99b319-78ec-441f-8b4f-fd6b46834a68,Low,Threshold Violation,False,False
+685,2025-01-29,3175,Norway,Myanmar,90d2426e-2341-4ee8-8a0a-03e553e7c77c,High,High-Risk Jurisdiction,False,False
+631,2025-01-05,12880,Svalbard & Jan Mayen Islands,Algeria,91cce7fa-2c1c-4e14-968f-c39a5b0bb148,High,Threshold Violation,False,False
+346,2025-01-21,11352,Ecuador,Romania,9209d205-bca5-4de4-ba47-abb0a0418245,High,Threshold Violation,False,False
+816,2025-01-12,12458,Montenegro,Algeria,947503d6-d620-444b-8d58-648ec536a822,Low,Threshold Violation,False,False
+516,2025-01-15,13581,Thailand,Cote d'Ivoire,9552f2d8-3aeb-4a82-8be5-64e9815e5c52,Medium,Threshold Violation,False,False
+995,2025-03-14,12971,Cote d'Ivoire,Israel,968c77e7-aeb1-4b34-9601-49b139819a65,Medium,Threshold Violation,False,False
+605,2025-03-15,14755,Turks and Caicos Islands,Finland,96ec0396-0a4f-4487-b6b0-94624f91b45f,High,Threshold Violation,False,False
+870,2025-03-08,10791,Turkey,Iraq,9883aa18-93eb-4728-80ac-5296c614660b,Medium,Threshold Violation,False,False
+966,2025-01-17,10320,Andorra,Mauritius,99410de4-0b4c-4793-a4d6-280e149678b1,High,Threshold Violation,False,False
+167,2025-01-16,12749,China,United States of America,9967c218-0bde-4cd2-8b3e-2b60846ecb72,Low,Threshold Violation,False,False
+542,2025-02-27,14190,American Samoa,Nigeria,9c3d4c9b-2f77-4834-90cd-383550e4f595,Low,Threshold Violation,False,False
+478,2025-01-13,10914,Kyrgyz Republic,Honduras,a054361c-c3a2-4a03-a041-8a9e3b2256c7,Medium,Threshold Violation,False,False
+152,2025-03-13,10852,Turkmenistan,Marshall Islands,a0be30da-6806-488c-ab71-708c1a4dba1a,Low,Threshold Violation,False,False
+378,2025-01-01,14787,Jamaica,Djibouti,a37adfd3-e9dc-4a90-ad73-4b3c9c689d61,Low,Threshold Violation,False,False
+367,2025-01-15,12752,Guyana,Netherlands Antilles,a3bcaf89-0f85-43d5-af71-48d2abed9ba6,Low,Threshold Violation,False,False
+38,2025-03-18,13918,Nepal,Lithuania,a3e9f91b-89cc-4d82-b375-e2b16ae4c034,High,Threshold Violation,False,False
+293,2025-02-22,11348,Costa Rica,Malaysia,a5040247-beda-4638-9798-af6393850b0c,High,Threshold Violation,False,False
+341,2025-01-01,12396,Mexico,Ukraine,a9a3c215-341c-4438-aa7e-15071d10f1e5,Medium,Threshold Violation,False,False
+978,2025-02-10,13731,Angola,Heard Island and McDonald Islands,a9c4941f-5d58-4673-bd7f-2ed8229bb77e,Low,Threshold Violation,False,False
+998,2025-01-01,13690,Ethiopia,Senegal,a9f885d1-8bc0-4234-a595-17242943bce2,Medium,Threshold Violation,False,False
+249,2025-03-06,14250,Guam,Nepal,aacb074f-46d6-4dcb-a84a-597a84ac8af8,Medium,Threshold Violation,False,False
+45,2025-02-06,11235,Lesotho,Colombia,abcdb3c9-316c-4cee-bdd4-923286db1334,High,Threshold Violation,False,False
+986,2025-01-23,10954,Honduras,Trinidad and Tobago,ad61d323-5c85-4aa7-89fe-7e35168a279a,Medium,Threshold Violation,False,False
+178,2025-01-25,11784,French Guiana,Kazakhstan,ae19ed33-2c28-41cf-8e7d-8000560c5f1c,Low,Threshold Violation,False,False
+102,2025-01-02,14987,Christmas Island,Russian Federation,b0db7001-1304-4687-b62a-19068870dfed,Low,Threshold Violation,False,False
+914,2025-02-16,14736,Saint Vincent and the Grenadines,Latvia,b1427a1c-3936-42ae-9bda-c08ae8a5eaf1,High,Threshold Violation,False,False
+594,2025-02-14,13986,Montenegro,Ghana,b242b07a-8532-44e4-87aa-b3dee89269b7,Low,Threshold Violation,False,False
+426,2025-02-06,12363,Paraguay,Grenada,b3a9c01e-fa0e-4136-b383-266c88662884,Medium,Threshold Violation,False,False
+934,2025-01-09,14366,Iceland,Thailand,b602c18b-de5a-4ca8-bb08-7dab2b7705d3,Medium,Threshold Violation,False,False
+247,2025-01-04,12284,Svalbard & Jan Mayen Islands,Afghanistan,b6522cc4-3f3b-43c8-b079-2123679ec7f9,High,Threshold Violation,False,False
+82,2025-01-20,10585,Colombia,Latvia,b6ab6896-008e-4db2-9140-118c41065ebf,Low,Threshold Violation,False,False
+155,2025-01-22,10611,Dominica,Japan,b74ca643-6699-4810-bc82-9b5cc4341ec3,Low,Threshold Violation,False,False
+624,2025-01-31,14060,Jersey,Austria,ba562633-7e20-461a-b680-ef23b92a2d04,High,Threshold Violation,False,False
+679,2025-01-26,4528,Congo,Myanmar,ba7b4d45-4851-4d07-b44f-853010e2063d,High,High-Risk Jurisdiction,False,False
+861,2025-01-30,14720,Poland,Spain,bab51144-f7d8-47e4-8552-fd947c99b60a,Low,Threshold Violation,False,False
+252,2025-01-27,12136,Tokelau,Turks and Caicos Islands,bb2accf3-1fe6-4a57-b29a-22fb81dad66b,High,Threshold Violation,False,False
+57,2025-02-21,14853,Georgia,Uzbekistan,bc4593f4-4246-464b-a7aa-cee491c39928,Low,Threshold Violation,False,False
+137,2025-02-15,12995,New Caledonia,Yemen,bdac7f58-78d3-4e3a-8614-ac6d74074b6e,High,Threshold Violation,False,False
+490,2025-01-22,10551,Sierra Leone,Yemen,bfe84ee3-a95e-4e8c-b66a-c6c680946b6d,High,Threshold Violation,False,False
+891,2025-01-24,14667,Iran,Cambodia,c334109d-cb9f-439a-a0d7-156ea67fa9aa,High,Threshold Violation,False,False
+225,2025-01-15,14309,Marshall Islands,Bulgaria,c408ae82-4e71-4079-ac9c-1ca4df620132,High,Threshold Violation,False,False
+351,2025-01-31,14686,Slovenia,Kyrgyz Republic,c5f9346f-e68c-43aa-a117-102082394765,Low,Threshold Violation,False,False
+244,2025-01-10,13452,Jordan,Lesotho,c608ae9b-a61a-43f2-a396-fc61c886c861,Low,Threshold Violation,False,False
+555,2025-01-03,12610,Tonga,Saudi Arabia,c6cda45d-6931-48e0-9449-f27781d5377e,Medium,Threshold Violation,False,False
+453,2025-02-10,12085,Japan,Saint Barthelemy,c722146f-3ab3-4a46-abb1-a329a3ba7cb3,High,Threshold Violation,False,False
+209,2025-01-08,14494,Bulgaria,Togo,c95b28ec-5dc8-4c6c-bf61-202ed40343cf,Low,Threshold Violation,False,False
+565,2025-03-13,14848,Grenada,Namibia,c96113f0-cceb-49f7-bfa3-675c65c87786,Medium,Threshold Violation,False,False
+908,2025-01-28,10953,Samoa,Netherlands,cb9df99b-430f-4ab8-8649-6e1524b7b83e,Medium,Threshold Violation,False,False
+63,2025-01-02,10264,Falkland Islands (Malvinas),Senegal,ccfe18fe-2c9b-4978-ae5d-acd4528d09ef,Low,Threshold Violation,False,False
+755,2025-01-07,12077,French Guiana,Tunisia,cd9262fa-a1c2-4b5f-9eeb-0d2cb27e6549,High,Threshold Violation,False,False
+374,2025-01-27,12742,Albania,Hong Kong,cee29b00-1ac7-4ce4-9029-678e81ac186a,High,Threshold Violation,False,False
+492,2025-01-14,13619,Djibouti,Congo,ceee4687-fde2-4324-939e-b93126a7928c,Low,Threshold Violation,False,False
+786,2025-02-27,13019,Antigua and Barbuda,Solomon Islands,cfc3f59d-a355-455e-8232-fcc1fa0a712d,Medium,Threshold Violation,False,False
+298,2025-01-06,14575,Palestinian Territory,Philippines,d1f75af0-4af1-4818-a799-d747dcba00d2,High,Threshold Violation,False,False
+927,2025-02-03,10862,Bulgaria,Seychelles,d2c7a566-78a1-4357-93fd-4abe0e2ba7c8,Medium,Threshold Violation,False,False
+107,2025-02-27,11782,Bosnia and Herzegovina,Micronesia,d3823f93-775c-43da-9730-5bfa2ab7a180,Medium,Threshold Violation,False,False
+989,2025-01-19,10834,Senegal,Serbia,d566f7ce-6508-4074-9b62-19d414d0425e,Low,Threshold Violation,False,False
+671,2025-01-26,14135,Haiti,Philippines,d57f603e-0a66-4571-9df7-d0af68f8fa7b,Low,Threshold Violation,False,False
+653,2025-02-24,13941,Russian Federation,Japan,d5a94b7f-487c-4148-b723-bf54a2b6abaf,Low,Threshold Violation,False,False
+630,2025-02-14,10682,Ethiopia,Cook Islands,d6d5d153-09d5-4c0e-9385-8320897fa062,Low,Threshold Violation,False,False
+678,2025-01-18,14142,Chad,Malaysia,d6f7297b-0e8a-4399-8daf-e54b7f4c1f47,Medium,Threshold Violation,False,False
+868,2025-02-24,12435,Bahrain,Norway,d836b924-328c-4437-bf07-42d9954dc0a7,Low,Threshold Violation,False,False
+782,2025-01-21,13224,Libyan Arab Jamahiriya,Madagascar,d8ff43b0-d775-414a-acac-82bce8cb32e6,Medium,Threshold Violation,False,False
+711,2025-02-14,10432,Eritrea,Morocco,da3cb3fe-40e7-4477-913e-45c0d322d225,Low,Threshold Violation,False,False
+113,2025-03-01,12655,Central African Republic,Saint Pierre and Miquelon,dbc48a55-5fbc-4b6b-b34e-93e323657e42,Low,Threshold Violation,False,False
+272,2025-03-02,13576,Papua New Guinea,Gambia,dd7482e4-3e48-47fc-80fe-674a0adbd71d,Low,Threshold Violation,False,False
+994,2025-03-07,14483,Cocos (Keeling) Islands,Panama,dd90b512-bf07-4c52-afb1-220a3e2eaf2b,Medium,Threshold Violation,False,False
+316,2025-03-09,11771,Holy See (Vatican City State),Lao People's Democratic Republic,ddfb250b-67a3-4574-9dc8-130d22a850e4,Low,Threshold Violation,False,False
+527,2025-03-05,10554,Burkina Faso,Tanzania,e26b57f1-6803-4f65-b60a-97c9292c23c9,Medium,Threshold Violation,False,False
+40,2025-02-15,12473,Faroe Islands,Zambia,e4c14403-a218-4eac-8ee5-1556f3862c8a,Medium,Threshold Violation,False,False
+334,2025-03-02,12276,United Kingdom,Turkmenistan,e5808e3d-abb7-4f2a-aa12-d17936ac0726,Medium,Threshold Violation,False,False
+277,2025-01-17,13242,Ghana,Slovakia (Slovak Republic),e6253aec-0b4d-4bcc-b5e7-ef472715be93,Low,Threshold Violation,False,False
+776,2025-01-09,11771,Nicaragua,Ethiopia,e9925322-ec0a-43a9-a56f-e02bccddf50a,Low,Threshold Violation,False,False
+957,2025-01-22,10869,Equatorial Guinea,Cambodia,e9a53ac7-a80e-45b7-801e-a35f3b01b53f,Low,Threshold Violation,False,False
+410,2025-02-21,13921,Benin,Georgia,ea111136-874e-49af-bda9-eca7bb1905bf,High,Threshold Violation,False,False
+371,2025-02-13,10907,Guinea-Bissau,Tanzania,ec051929-f626-4d29-990e-1f01661bcd47,High,Threshold Violation,False,False
+326,2025-02-13,13423,Anguilla,Bahrain,eda34d97-a23d-4dbc-ac45-8a0a80bb6272,Medium,Threshold Violation,False,False
+195,2025-01-24,11818,Maldives,Philippines,ee544d8e-60e6-4b6c-bce2-b7c059d0f316,Low,Threshold Violation,False,False
+580,2025-01-03,11013,Svalbard & Jan Mayen Islands,Kazakhstan,eeb260c2-d6b9-4625-9b67-966c0662b989,Medium,Threshold Violation,False,False
+757,2025-01-15,11098,Senegal,Czech Republic,f2bbdece-e855-4dfe-91da-3280a07bb983,High,Threshold Violation,False,False
+127,2025-01-14,10265,Congo,Barbados,f3ee8d68-b628-43fe-b75f-39993803d4d1,Low,Threshold Violation,False,False
+408,2025-02-19,11355,Guam,Saint Pierre and Miquelon,f4b5cdf7-c01f-4bda-b9f2-30be36bf59eb,Low,Threshold Violation,False,False
+425,2025-02-22,10251,Zambia,Ghana,f6d6798c-90de-4c18-ae2c-b9c1df973c04,Low,Threshold Violation,False,False
+992,2025-02-13,13383,Egypt,Wallis and Futuna,f7cdb4d5-10ed-4060-93ed-72326d21c49c,High,Threshold Violation,False,False
+221,2025-01-01,12797,Burkina Faso,Mexico,fb85536f-fd6c-4f4b-bf26-58c07e8090ef,High,Threshold Violation,False,False
+100,2025-02-05,11439,Heard Island and McDonald Islands,Guyana,fd15a6c5-cc24-405c-a83d-96a292284966,Low,Threshold Violation,False,False
+290,2025-02-07,13610,Myanmar,Romania,fdbc99e2-5602-4f79-9904-f7f1a12d73c6,Low,Threshold Violation,False,False
+255,2025-03-01,12662,Estonia,Austria,fe318bb6-2d15-44cc-a829-1da1701bd5e9,High,Threshold Violation,False,False
+878,2025-02-07,11123,Kuwait,Sudan,feb80960-7086-44d5-a04f-70853df51631,Medium,Threshold Violation,False,False
+644,2025-03-06,12123,Equatorial Guinea,Timor-Leste,ffe1d2a7-7cc9-4771-ac01-97df424edbd7,Medium,Threshold Violation,False,False
