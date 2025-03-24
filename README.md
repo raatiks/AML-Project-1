@@ -1,4 +1,5 @@
 # AML-Project-1
 Project 1: Transaction Monitoring &amp; Suspicious Activity Detection
-- Analyze 1,000 synthetic financial transactions, flagging transactions for high-risk activities (e.g. high-risk jurisdictions such as Iran and Syria) based on FATF guidelines.
-- Utilized Matplotlib and Seaborn to visualize key findings and drafted a report that complies with FINTRAC standards.
+- Analyze 1,000 synthetic financial transactions using Python and Pandas, flagging 18.3% as high-risk (e.g., transfers >$10,000, FATF grey-listed jurisdictions like Iran/Syria/Myanmar).
+- Utilized Matplotlib and Seaborn to visualize key findings and drafted a report that complies with FINTRAC standards for stakeholders.
+
